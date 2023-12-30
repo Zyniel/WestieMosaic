@@ -4,6 +4,7 @@ import com.zyniel.apps.westiescrapper.helpers.ConfigurationHelper;
 import com.zyniel.apps.westiescrapper.helpers.SupportedBrowsers;
 import com.zyniel.apps.westiescrapper.model.IDataProcessor;
 import com.zyniel.apps.westiescrapper.model.WestieDataExtractor;
+import com.zyniel.apps.westiescrapper.model.WestieImageExtractor;
 import com.zyniel.apps.westiescrapper.model.WestieParser;
 import org.openqa.selenium.WebDriver;
 import org.slf4j.LoggerFactory;
@@ -23,7 +24,8 @@ public class WestieParserApp {
         String url = ConfigurationHelper.getWestieAppUrl();
 
         // Prepare parser
-        IDataProcessor processor = new WestieDataExtractor();
+        // IDataProcessor processor = new WestieDataExtractor();
+        IDataProcessor processor = new WestieImageExtractor(driver);
         WestieParser parser = new WestieParser(driver, url, processor);
 
         // Start parsing
