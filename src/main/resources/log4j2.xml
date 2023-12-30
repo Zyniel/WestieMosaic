@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Properties>
+        <Property name="APP_LOG_ROOT">logs/</Property>
+        <Property name="LOG_PATTERN">[%d{yyyy/MM/dd HH:mm:ss,SSS}] [%p] [%c{1}] %m%n</Property>
+    </Properties>
+
+    <Appenders>
+        <!-- Console Output -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+        </Console>
+
+        <!-- Global log file definition -->
+        <RollingFile name="Log"
+                     fileName="${APP_LOG_ROOT}/app.log"
+                     filePattern="${APP_LOG_ROOT}/app-%d{yyyy-MM-dd}-%i.log">
+            <LevelRangeFilter minLevel="trace" maxLevel="fatal" onMatch="ACCEPT" onMismatch="DENY"/>
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="10"/>
+        </RollingFile>
+
+        <!-- Error only log file -->
+        <RollingFile name="ErrorLog"
+                     fileName="${APP_LOG_ROOT}/app-error.log"
+                     filePattern="${APP_LOG_ROOT}/app-error-%d{yyyy-MM-dd}-%i.log">
+            <LevelRangeFilter minLevel="error" maxLevel="error" onMatch="ACCEPT" onMismatch="DENY"/>
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="10"/>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <Logger name="com.zyniel.apps.dance.wcs" level="trace" additivity="false">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="Log"/>
+            <AppenderRef ref="ErrorLog"/>
+        </Logger>
+        <Root level="debug">
+            <AppenderRef ref="Console"/>
+        </Root>
+    </Loggers>
+</Configuration>

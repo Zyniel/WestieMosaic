@@ -1,0 +1,3470 @@
+{
+  "aadc_info": {
+    "age_group": 3
+  },
+  "account_info": [
+    {
+      "account_id": "00034001AC452EC4",
+      "accountcapabilities": {
+        "accountcapabilities/gi2tklldmfya": -1
+      },
+      "edge_account_age_group": 3,
+      "edge_account_cid": "96c3b0ae7c2036b9",
+      "edge_account_first_name": "François",
+      "edge_account_is_test_on_premises_profile": false,
+      "edge_account_last_name": "CABANNES",
+      "edge_account_location": "FR",
+      "edge_account_oid": "",
+      "edge_account_puid": "00034001AC452EC4",
+      "edge_account_sovereignty": 0,
+      "edge_account_tenant_id": "",
+      "edge_account_type": 1,
+      "edge_data_protection_type": 0,
+      "edge_is_data_protection_target": false,
+      "edge_wam_aad_for_app_account_type": 0,
+      "email": "cabannes.francois@outlook.com",
+      "full_name": "",
+      "gaia": "00034001AC452EC4",
+      "given_name": "",
+      "hd": "",
+      "is_supervised_child": 0,
+      "is_under_advanced_protection": false,
+      "last_downloaded_image_url_with_size": "",
+      "locale": "",
+      "picture_url": ""
+    }
+  ],
+  "account_level_sync_consent_recorded": true,
+  "account_tracker_service_last_update": "13348284966554744",
+  "alternate_error_pages": {
+    "backup": true
+  },
+  "anaheim_import": {
+    "auto_imported_details": {
+      "imported_time": "Sun Jul 25 19:29:02 2021\n",
+      "profiles": {
+        "browser_name": 6,
+        "is_AutoFillFormData_imported": true,
+        "is_Cookies_imported": true,
+        "is_Extensions_imported": true,
+        "is_Favorite_imported": true,
+        "is_History_imported": true,
+        "is_Payments_imported": true,
+        "is_SavedPasswords_imported": true,
+        "is_Settings_imported": true,
+        "source_path": "C:\\Users\\caban\\AppData\\Local\\Packages\\microsoft.microsoftedge_8wekyb3d8bbwe\\AC\\MicrosoftEdge\\User\\Default"
+      }
+    },
+    "imported_default_search_engine": "https://www.bing.com/search?q={searchTerms}&FORM={referrer:source}",
+    "reimport_details": {
+      "import_items_success_status": 9,
+      "imported_time": "Sun Jul 25 19:36:05 2021\n",
+      "profiles": {
+        "browser_name": 6,
+        "source_path": "C:\\Users\\caban\\AppData\\Local\\Packages\\microsoft.microsoftedge_8wekyb3d8bbwe\\AC\\MicrosoftEdge\\User\\Default"
+      },
+      "retry_count": 0,
+      "state": 2
+    }
+  },
+  "apps": {
+    "shortcuts_arch": "",
+    "shortcuts_version": 0
+  },
+  "arbitration_experiences": {
+    "AUTOFILL_PASSWORD_NON_FUNCTIONAL_FLYOUTS": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13341722118608829",
+      "Loss": 0,
+      "NSATTriggeredCount": 1,
+      "NSATUpperCI": 1.0,
+      "OverallNSAT": 1.0,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 1,
+      "Win": 0
+    },
+    "FOLLOWABLE_WEB_NOTIFICATION_AUTOSHOW": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13348334677575143",
+      "Loss": 0,
+      "NSATTriggeredCount": 52,
+      "NSATUpperCI": 1.0,
+      "OverallNSAT": 1.0,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0.0,
+      "SnoozeCount": 0,
+      "Triggered": 64,
+      "Win": 0
+    },
+    "Nurturing.Global.Bing_NewBingChatFlyout": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13333911922860499",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    },
+    "Nurturing.Global.Bing_NtpHomeStartpageUpsellFlyout": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13337993885619395",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    },
+    "Nurturing.Global.Bing_RecommendedSettingsVariants": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13321064601453715",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    },
+    "Nurturing.Global.EdgeGrowth_GlobalSitePinningOnCloseModal": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "DismissedCount": 1,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13339851859072598",
+      "Loss": 0,
+      "NSATTriggeredCount": 1,
+      "NSATUpperCI": 1.0,
+      "OverallNSAT": 1.0,
+      "QuickDismissedCount": 0,
+      "SnoozeCount": 0,
+      "Triggered": 1,
+      "Win": 0
+    },
+    "Nurturing.Global.EdgeMobile_MobileUpsell_ChatGpt_Flyout": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13332803726369777",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    },
+    "Nurturing.Global.EdgeMobile_MobileUpsell_ChatGpt_Flyout_V2": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13325717857818730",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    },
+    "Nurturing.Global.EdgeMobile_MobileUpsell_Email_AF_AnimationNews": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13321324882120313",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    },
+    "Nurturing.Global.EdgeMobile_MobileUpsell_Email_AF_AnimationSearch": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13339076601785151",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    },
+    "Nurturing.Global.EdgePerf_PerfGameMode": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13326030519452497",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    },
+    "Nurturing.Global.EdgeVpn_VpnFre": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13343781178512076",
+      "Loss": 0,
+      "NSATTriggeredCount": 2,
+      "NSATUpperCI": 1.0,
+      "OverallNSAT": 1.0,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 2,
+      "Win": 0
+    },
+    "Nurturing.Global.Identity_RemoveIgnoreCAWV2": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "DismissedCount": 1,
+      "ExperienceEngagementHistory": 1,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13341252165997015",
+      "Loss": 1,
+      "NSATTriggeredCount": 1,
+      "NSATUpperCI": 1.1929646455628165,
+      "OverallNSAT": 0.5,
+      "QuickDismissedCount": 1,
+      "SnoozeCount": 0,
+      "Triggered": 1,
+      "Win": 0
+    },
+    "Nurturing.Global.OnRamp_PhoenixAvatar": {
+      "ClickedCount": 0,
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "DismissedCount": 1,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IgnoredCount": 0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13346928492558307",
+      "Loss": 0,
+      "ModelScore": 1.0,
+      "NSATTriggeredCount": 1,
+      "NSATUpperCI": 1.0,
+      "OverallNSAT": 1.0,
+      "QuickDismissedCount": 0,
+      "SnoozeCount": 0,
+      "Triggered": 1,
+      "Win": 0
+    },
+    "Nurturing.Global.PWA_SidebarSearchPromotion": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13336953632811273",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    },
+    "Nurturing.Global.Rewards_Coachmark": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13326289929484138",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    },
+    "Nurturing.Global.Rewards_RedemptionCoachmark": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13333630072170344",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    },
+    "SHOPPING_AUTO_SHOW_ABANDONED_CART": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13321501316140111",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    },
+    "SHOPPING_AUTO_SHOW_AWARENESS_EXPANSION": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13347980576879487",
+      "Loss": 0,
+      "NSATTriggeredCount": 9,
+      "NSATUpperCI": 1.0,
+      "OverallNSAT": 1.0,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 9,
+      "Win": 0
+    },
+    "SHOPPING_AUTO_SHOW_COUPONS_BACKGROUND_AUTO_APPLY": {
+      "ClickedCount": 0,
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "DismissedCount": 1,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IgnoredCount": 3,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13347400367867267",
+      "Loss": 0,
+      "ModelScore": 1.0,
+      "NSATTriggeredCount": 5,
+      "NSATUpperCI": 1.0,
+      "OverallNSAT": 1.0,
+      "QuickDismissedCount": 0,
+      "SnoozeCount": 0,
+      "Triggered": 5,
+      "Win": 0
+    },
+    "SHOPPING_AUTO_SHOW_COUPONS_CHECKOUT": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13347400366253369",
+      "Loss": 0,
+      "NSATTriggeredCount": 6,
+      "NSATUpperCI": 1.0,
+      "OverallNSAT": 1.0,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 6,
+      "Win": 0
+    },
+    "SHOPPING_AUTO_SHOW_COUPONS_CLIPPING": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13339094293894683",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    },
+    "SHOPPING_AUTO_SHOW_LOWER_PRICE_FOUND": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13348259394696078",
+      "Loss": 0,
+      "NSATTriggeredCount": 5,
+      "NSATUpperCI": 1.0,
+      "OverallNSAT": 1.0,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 5,
+      "Win": 0
+    },
+    "SHOPPING_AUTO_SHOW_OTHER_SELLER": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13345430968981982",
+      "Loss": 0,
+      "NSATTriggeredCount": 3,
+      "NSATUpperCI": 1.0,
+      "OverallNSAT": 1.0,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 3,
+      "Win": 0
+    },
+    "SHOPPING_AUTO_SHOW_PRICE_HISTORY": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13346943502732309",
+      "Loss": 0,
+      "NSATTriggeredCount": 4,
+      "NSATUpperCI": 1.0,
+      "OverallNSAT": 1.0,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 4,
+      "Win": 0
+    },
+    "SHOPPING_AUTO_SHOW_PRODUCT_BEST_COUPON_CONSENT": {
+      "Cohort": "DefaultCohort",
+      "DisableCount": 0,
+      "Disabled": false,
+      "ExperienceEngagementHistory": 0,
+      "GlobalNSAT": 0.0,
+      "IsGlobalExperience": false,
+      "LastTriggeredTime": "13334873501423211",
+      "Loss": 0,
+      "NSATTriggeredCount": 0,
+      "NSATUpperCI": 1,
+      "OverallNSAT": 1,
+      "QuickDismissedCount": 0,
+      "QuickDismissedRateLowerCI": 0,
+      "SnoozeCount": 0,
+      "Triggered": 0,
+      "Win": 0
+    }
+  },
+  "arbitration_last_notification_shown": "13348334677575143",
+  "arbitration_local_nsat_reset_time": "13339637938845169",
+  "arbitration_using_experiment_config": false,
+  "autocomplete": {
+    "retention_policy_last_version": 120
+  },
+  "autofill": {
+    "credit_card_fido_auth_enabled": false,
+    "edge_list_token_metadata_api_last_call_timestamp": "13348276071003495",
+    "edge_tokenization_device_id": "d0Y8_wNU5iHhaocdZuV7oQ",
+    "flight_search_assistance_config": "",
+    "flight_search_assistance_config_expiration": "13341682202479745",
+    "flight_search_assistance_flyout_impression_count": 0,
+    "last_version_deduped": 113,
+    "mspay_listpi_last_call_timestamp": "13348276071093079",
+    "save_ms_pay_card_checkbox_state": false,
+    "upload_encoding_seed": "542D8564B85FCAD4EBB62907C2BE3CF2",
+    "upload_events": {
+      "004": 64,
+      "01F": 6,
+      "062": 65,
+      "071": 4,
+      "079": 64,
+      "08F": 4,
+      "0C3": 64,
+      "0CD": 1,
+      "121": 2,
+      "12C": 64,
+      "13B": 64,
+      "150": 4,
+      "157": 65,
+      "184": 20,
+      "188": 19,
+      "19E": 1,
+      "1B2": 64,
+      "232": 64,
+      "238": 4,
+      "252": 5,
+      "253": 64,
+      "26A": 21,
+      "283": 65,
+      "288": 16,
+      "28B": 4,
+      "2A4": 65,
+      "2A6": 16,
+      "2CE": 64,
+      "2D4": 4,
+      "315": 4,
+      "341": 64,
+      "39A": 4,
+      "3D1": 65,
+      "3E9": 64,
+      "3F3": 64
+    },
+    "upload_events_last_reset_timestamp": "13342192478737056",
+    "user_initiated_autofill_teaching_tip_shown_count": 2,
+    "user_preffered_profile_guid": "69e62bc0-cf6f-4608-9413-6f26597d1e81",
+    "wallet_import_enabled": true
+  },
+  "bookmark_bar": {
+    "show_on_all_tabs": true,
+    "show_only_on_ntp": false
+  },
+  "bookmark_editor": {
+    "expanded_nodes": [
+      "1"
+    ]
+  },
+  "browser": {
+    "app_window_placement": {
+      "EdgeDevToolsApp": {
+        "always_on_top": false,
+        "bottom": 1139,
+        "left": 2297,
+        "maximized": false,
+        "right": 3712,
+        "top": 100,
+        "work_area_bottom": 1032,
+        "work_area_left": 1920,
+        "work_area_right": 3840,
+        "work_area_top": 0
+      },
+      "_crx__hnpfjngllnobngcgfapefoaidbinmjnm": {
+        "bottom": 957,
+        "left": 2332,
+        "maximized": false,
+        "right": 3189,
+        "top": 128,
+        "work_area_bottom": 1032,
+        "work_area_left": 1920,
+        "work_area_right": 3840,
+        "work_area_top": 0
+      }
+    },
+    "auto_open_copilot_large_screens_count": 2,
+    "available_dark_theme_options": "All",
+    "clear_data": {
+      "browsing_history": true,
+      "cache": true,
+      "cookies": false,
+      "download_history": false,
+      "mf_protected_media_data": true,
+      "mf_protected_media_data_output_folder": "",
+      "time_period": 3
+    },
+    "dark_theme": true,
+    "editor_proofing_languages": {
+      "en": {
+        "Grammar": false,
+        "Spelling": false
+      },
+      "en-GB": {
+        "Grammar": true,
+        "Spelling": true
+      },
+      "en-US": {
+        "Grammar": false,
+        "Spelling": false
+      }
+    },
+    "has_seen_welcome_page": false,
+    "history_in_shoreline_activated": true,
+    "history_upsell_mobile_dismissed": true,
+    "history_visit_time": "13346130014227761",
+    "hub_app_non_synced_preferences": {
+      "apps": {
+        "06be1ebe-f23a-4bea-ae45-3120ad86cfea": {
+          "last_path": ""
+        },
+        "0c835d2d-9592-4c7a-8d0a-0e283c9ad3cd": {
+          "last_path": ""
+        },
+        "168a2510-04d5-473e-b6a0-828815a7ca5f": {
+          "last_path": ""
+        },
+        "1ec8a5a9-971c-4c82-a104-5e1a259456b8": {
+          "last_path": ""
+        },
+        "2354565a-f412-4654-b89c-f92eaa9dbd20": {
+          "last_path": ""
+        },
+        "25fe2d1d-e934-482a-a62f-ea1705db905d": {
+          "last_path": ""
+        },
+        "2caf0cf4-ea42-4083-b928-29b39da1182b": {
+          "last_path": ""
+        },
+        "35a43603-bb38-4b53-ba20-932cb9117794": {
+          "last_path": ""
+        },
+        "380c71d3-10bf-4a5d-9a06-c932e4b7d1d8": {
+          "last_path": ""
+        },
+        "3a2f4dee-d482-4ef8-baef-cb22b649608c": {
+          "last_path": ""
+        },
+        "3b5ee6f6-5322-4061-81e4-d97681852d66": {
+          "last_path": ""
+        },
+        "42985e4c-2a12-401d-90f2-afaff9cd7c92": {
+          "last_path": ""
+        },
+        "439642fc-998d-4a64-8bb6-940ecaf6b60b": {
+          "last_path": ""
+        },
+        "523b5ef3-0b10-4154-8b62-10b2ebd00921": {
+          "last_path": ""
+        },
+        "64be4f9b-3b81-4b6e-b354-0ba00d6ba485": {
+          "last_path": ""
+        },
+        "76b926d6-3738-46bf-82d7-2ab896ddf70b": {
+          "last_path": ""
+        },
+        "7b52ae05-ae84-4165-b083-98ba2031bc22": {
+          "last_path": ""
+        },
+        "844aac69-589e-4f86-9e37-cc51a1f8ed96": {
+          "last_path": ""
+        },
+        "8682d0fa-50b3-4ece-aa5b-e0b33f9919e2": {
+          "last_path": ""
+        },
+        "8ac719c5-140b-4bf2-a0b7-c71617f1f377": {
+          "last_path": ""
+        },
+        "92f1b743-e26b-433b-a1ec-912d1f0ad1fa": {
+          "last_path": ""
+        },
+        "96defd79-4015-4a32-bd09-794ff72183ef": {
+          "last_path": ""
+        },
+        "9ce3c9c2-462f-4cc9-bbd7-57d656445be0": {
+          "last_path": ""
+        },
+        "a1a78183-6db3-4789-9e7c-84d157846d55": {
+          "last_path": ""
+        },
+        "add60331-bd63-40db-bd63-5d2125e0779b": {
+          "last_path": ""
+        },
+        "b0197d6d-a306-4106-8536-17bb5ecfd446": {
+          "last_path": ""
+        },
+        "bacc3c12-ebff-44b4-a0f8-ce8b69c9e047": {
+          "last_path": ""
+        },
+        "c814ae4d-fa0a-4280-a444-cb8bd264828b": {
+          "last_path": ""
+        },
+        "cd4688a9-e888-48ea-ad81-76193d56b1be": {
+          "last_path": ""
+        },
+        "d2c61a42-950e-49da-800f-d1ba37e1cf2c": {
+          "last_path": ""
+        },
+        "d304175e-bbd4-4b66-8839-9627e56f391f": {
+          "last_path": ""
+        },
+        "d3ff4c56-a2b8-4673-ad13-35e7706cc9d1": {
+          "last_path": ""
+        },
+        "da15ec1d-543d-41c9-94b8-eb2bd060f2c7": {
+          "last_path": ""
+        },
+        "dadd1f1c-380c-4871-9e09-7971b6b15069": {
+          "last_path": ""
+        },
+        "e6723537-66ff-4f4e-ab56-a4cbaddf4e0f": {
+          "last_path": ""
+        },
+        "e7103ffc-db88-4747-bd00-c01a32de2621": {
+          "last_path": ""
+        },
+        "ec843dfc-b28b-4030-9fb9-edcf38942a5e": {
+          "last_path": ""
+        },
+        "f5acef52-81e2-484c-8010-c743f58039c7": {
+          "last_path": ""
+        }
+      }
+    },
+    "hub_app_preferences": {
+      "439642fc-998d-4a64-8bb6-940ecaf6b60b": {
+        "auto_show": {
+          "enabled": true
+        }
+      },
+      "64be4f9b-3b81-4b6e-b354-0ba00d6ba485": {
+        "auto_show": {
+          "enabled": true
+        }
+      },
+      "8682d0fa-50b3-4ece-aa5b-e0b33f9919e2": {
+        "auto_show": {
+          "enabled": true
+        }
+      },
+      "8ac719c5-140b-4bf2-a0b7-c71617f1f377": {
+        "auto_show": {
+          "enabled": true
+        }
+      },
+      "96defd79-4015-4a32-bd09-794ff72183ef": {
+        "auto_show": {
+          "enabled": true
+        }
+      },
+      "cd4688a9-e888-48ea-ad81-76193d56b1be": {
+        "auto_show": {
+          "enabled": true
+        }
+      },
+      "d304175e-bbd4-4b66-8839-9627e56f391f": {
+        "auto_show": {
+          "enabled": true
+        }
+      },
+      "default_on_apps_cleanup_state": 1
+    },
+    "hub_app_usage_preferences": {
+      "523b5ef3-0b10-4154-8b62-10b2ebd00921": 1,
+      "CleanupCounts": 1,
+      "OpenFirstTime": 1684036215,
+      "cd4688a9-e888-48ea-ad81-76193d56b1be": 7,
+      "d304175e-bbd4-4b66-8839-9627e56f391f": 1
+    },
+    "hub_cleanup_context": {
+      "show_days": "11111111111111101111111111111111",
+      "sidebar_show_last_time": 3707857
+    },
+    "hub_toggle_time": "13323616839568735",
+    "prefer_system_light_dark_scheme": false,
+    "should_reset_check_default_browser": false,
+    "show_downloads_hub_pinned": false,
+    "show_hub_app_in_sidebar_buttons": {
+      "0c835d2d-9592-4c7a-8d0a-0e283c9ad3cd": 0,
+      "2354565a-f412-4654-b89c-f92eaa9dbd20": 0,
+      "2caf0cf4-ea42-4083-b928-29b39da1182b": 3,
+      "523b5ef3-0b10-4154-8b62-10b2ebd00921": 0,
+      "64be4f9b-3b81-4b6e-b354-0ba00d6ba485": 0,
+      "76b926d6-3738-46bf-82d7-2ab896ddf70b": 3,
+      "8682d0fa-50b3-4ece-aa5b-e0b33f9919e2": 0,
+      "8ac719c5-140b-4bf2-a0b7-c71617f1f377": 0,
+      "92f1b743-e26b-433b-a1ec-912d1f0ad1fa": 0,
+      "96defd79-4015-4a32-bd09-794ff72183ef": 0,
+      "9ce3c9c2-462f-4cc9-bbd7-57d656445be0": 3,
+      "cd4688a9-e888-48ea-ad81-76193d56b1be": 0,
+      "d304175e-bbd4-4b66-8839-9627e56f391f": 0,
+      "dadd1f1c-380c-4871-9e09-7971b6b15069": 3
+    },
+    "show_hub_app_in_sidebar_buttons_legacy": {
+      "0c835d2d-9592-4c7a-8d0a-0e283c9ad3cd": 0,
+      "2354565a-f412-4654-b89c-f92eaa9dbd20": 0,
+      "2caf0cf4-ea42-4083-b928-29b39da1182b": 3,
+      "523b5ef3-0b10-4154-8b62-10b2ebd00921": 0,
+      "64be4f9b-3b81-4b6e-b354-0ba00d6ba485": 0,
+      "76b926d6-3738-46bf-82d7-2ab896ddf70b": 3,
+      "8682d0fa-50b3-4ece-aa5b-e0b33f9919e2": 0,
+      "8ac719c5-140b-4bf2-a0b7-c71617f1f377": 0,
+      "92f1b743-e26b-433b-a1ec-912d1f0ad1fa": 0,
+      "96defd79-4015-4a32-bd09-794ff72183ef": 0,
+      "9ce3c9c2-462f-4cc9-bbd7-57d656445be0": 3,
+      "cd4688a9-e888-48ea-ad81-76193d56b1be": 0,
+      "d304175e-bbd4-4b66-8839-9627e56f391f": 0,
+      "dadd1f1c-380c-4871-9e09-7971b6b15069": 3
+    },
+    "show_hub_app_in_sidebar_buttons_legacy_update_time": "13348351789696586",
+    "show_hub_apps_tower": true,
+    "show_sidebar_notification": true,
+    "show_toolbar_edge_rewards_hub_button": false,
+    "show_toolbar_edge_sports_button": false,
+    "show_toolbar_edge_vpn_button": true,
+    "time_of_last_normal_window_close": "13348351842104689",
+    "toolbar_extensions_hub_button_visibility": 0,
+    "underside_chat_bce_status": false,
+    "underside_chat_bing_signed_in_status": true,
+    "underside_chat_biz_chat_status": false,
+    "underside_chat_enrollment_status": true,
+    "underside_chat_interacted": false,
+    "underside_chat_open_count": 5,
+    "underside_front_load_preferences": {
+      "scenarios": []
+    },
+    "window_placement": {
+      "bottom": 1316,
+      "left": -900,
+      "maximized": true,
+      "right": 68,
+      "top": 475,
+      "work_area_bottom": 1501,
+      "work_area_left": -1080,
+      "work_area_right": 0,
+      "work_area_top": -371
+    },
+    "window_placement_popup": {
+      "bottom": 885,
+      "left": 1920,
+      "maximized": false,
+      "right": 2436,
+      "top": 265,
+      "work_area_bottom": 1032,
+      "work_area_left": 1920,
+      "work_area_right": 3840,
+      "work_area_top": 0
+    }
+  },
+  "browser_content_container_height": 962,
+  "browser_content_container_width": 1876,
+  "browser_content_container_x": 0,
+  "browser_content_container_y": 70,
+  "browser_essentials": {
+    "show_hub_fre": false,
+    "show_safety_fre": false
+  },
+  "cached_fonts": {
+    "search_results_page": {
+      "fallback": [
+        "Cambria Math"
+      ],
+      "primary": [
+        "Google Sans",
+        "Arial"
+      ]
+    }
+  },
+  "chrome": {
+    "prefetch_proxy": {
+      "origin_decider": {
+        "retry_after": {}
+      }
+    }
+  },
+  "collections": {
+    "is_citations_used": false,
+    "pinterest_recommendations": {
+      "enabled": false,
+      "policy": {
+        "cached": false
+      }
+    },
+    "prism_collection": {
+      "enroll": {
+        "rule_version": 1,
+        "state": 2
+      }
+    },
+    "prism_collections": {
+      "enabled": 1,
+      "hybrid": {
+        "check_time": "13338142603109871",
+        "prism_count": 3
+      },
+      "migration": {
+        "accepted": true,
+        "complete_count": 1,
+        "completed": 2,
+        "consent_count": 1,
+        "failed_count": 0,
+        "item_count": 153,
+        "last_attempt_timestamp": 1693670507.581506,
+        "mobile_num": 0,
+        "ongoing": false,
+        "pc_num": 2,
+        "possible": true,
+        "thumbnail_download_attempt_count": 6,
+        "thumbnail_loss_check_timestamp": 1683740863.536819
+      },
+      "policy": {
+        "cached": 1
+      },
+      "wns": {
+        "last_subscribe_time": "13348178934236383",
+        "subscription_id": "CgdEZWZhdWx0EAQY0c7D2_v_____AQ collections_service"
+      }
+    },
+    "rss_dev_feed": {
+      "policy": {
+        "cached": false
+      }
+    }
+  },
+  "commerce_daily_metrics_last_update_time": "13328062086843383",
+  "continuous_migration": {
+    "ci_correction_for_holdout_treatment_state": 1,
+    "datatype_details_migration_performed": true
+  },
+  "countryid_at_install": 18002,
+  "custom_handlers": {
+    "enabled": true,
+    "ignored_protocol_handlers": [
+      {
+        "last_modified": "13275664906376451",
+        "protocol": "mailto",
+        "security_level": 0,
+        "url": "https://mail.google.com/mail/?extsrc=mailto&url=%s"
+      },
+      {
+        "last_modified": "13309911703645211",
+        "protocol": "webcal",
+        "security_level": 0,
+        "url": "https://calendar.google.com/calendar/u/4/r?cid=%s"
+      },
+      {
+        "last_modified": "13311134263063498",
+        "protocol": "webcal",
+        "security_level": 0,
+        "url": "https://calendar.google.com/calendar/u/0/r?cid=%s"
+      },
+      {
+        "last_modified": "13311134322496100",
+        "protocol": "webcal",
+        "security_level": 0,
+        "url": "https://calendar.google.com/calendar/u/5/r?cid=%s"
+      },
+      {
+        "last_modified": "13315596675468058",
+        "protocol": "webcal",
+        "security_level": 0,
+        "url": "https://calendar.google.com/calendar/u/8/r?cid=%s"
+      },
+      {
+        "last_modified": "13323725508786980",
+        "protocol": "webcal",
+        "security_level": 0,
+        "url": "https://calendar.google.com/calendar/u/3/r?cid=%s"
+      }
+    ],
+    "registered_protocol_handlers": []
+  },
+  "custom_links": {
+    "list": []
+  },
+  "default_apps_install_state": 3,
+  "default_search_provider": {
+    "swap_baidu": true,
+    "synced_guid": "485bf7d3-0215-45af-87dc-538868000003"
+  },
+  "devtools": {
+    "adb_key": "MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmqLL6euFRiiSd6Nulr0ufGZbX7TZ1Rv2uwXLc5OwZ5RICwz/fNXY1aICKTW5+W1G6MBEcG1ZBFJAxZQFb60Q86FmbOcC3SfEqnuwFnWlQOsfLC2mXjxwxuT+Qi6zmne+2M31Fc2PjrEDobg8PwMBju7LXEkC8SqT8eKw2C8kIsOWD7GYfNOkJyyjDTTL0cydxs0K6juMfbvjoKsMBL1/y4npnLEZIGHZwXFNs4EaNPfeDP45se3gl0FA+xpUsDpCaiYosFwf+FokG3YRJEgGoPyhcBI4n2Vb4Ap2e4hj2Wu7hZAU91ALjTG4XGVUuHSxDSS7cVT1pcAQ3zPIQtYlrAgMBAAECggEAF0frsKfnv98/XDvCKzQAqVoGw2UkvV9MYtQtOoRUIw3n5TDnREQQnkdZ5XgJnmcdVJgQW8/Jzc+UkQHeHbwQzT1b/x4jOLeAlAadS++AXa/IZynR91ULiDqrkYKhhZm8ecRZlJEY/B389zsgqX+woH4A7qBjIKqAv7APxoEA9VCenX9lB+m0TYqCEQhhLYAwWPERsIjsGthCn+Q2dV2i5WbbHMcZ+K774JFjUZBl44cqQrlixXmNtuchNom4Mui4FaiGy0+forNM0lqJ+0gav0MFCF2bAzJipIfs/0OyOPkG+TddPFqyFU1sOj8i1oG+31TeH7rmttijaZCNI8YQWQKBgQDrI5bm6Ku2aNroNKArUq5yIlCKUGQUChES6B3ZsZF/ImPw/dKDtAugi2RXbchl/XYbwvD/HlSIJrVfW84MThf5yFWxdPjb2rXfPVbXUdOPcWbl++GK8CCUlphvGJ2OCdMWdz5BV6W/ZDKuG7m82G443rijFWUY9MMTQ84vOy8RbQKBgQC1cc977spmsEueKXAXxRNCmlB/t5RLfysFV6J5lUwp0wu8HlH+UCEtQ07XFjn6rle0jOSfY0huhARfJ0k3AI47XzrokyVcQNMESOMHETDpTD4s+SG3OFqOkVPEyqVAqfGvsaOdCeQmW/cPqEkcTSqXiF1G/+z4XYpYC+eIPigXNwKBgASRP2gi0tsLNF1YUFgnFf5fjkLxhtAg1e4RFitZWKMojtpqg8FNKQCoVH2iQ0c/4iBt6/J4q1mtrs44YUs55RtT+d4lkIPsvqWkcmBiVYKuyDnlZ58kRO298x4NU1oj9La2AD6SrkSGdLmPDk+NwK5YHSwFyV3vuy5PndyrAKINAoGBAKPAJOrKZSwr6vLAnwM0vt8a+Y9qFJHWIPNfVai4ztXoO+z4yDLmCisZVavTyVutwEWX6jTWm2XyCyf9Apx7CeIXXcjME6mgb1Csnwefwi6qumpIJN+AImoMSjeOU3l6Zj6T6P8vEBJ2aRBeZiz+j3PWg6gyDKFReitgAwL4ZaIdAoGBAOM131WLQmK9cfCQbdbxuJUvGZ1dyDxMZRttHas6G3lgCRNmyfXUyZgwfETMiaJzUChtR9bQcNoGnsoEKl6JTKn9DywBifNHrkUZSE6+EnTQ2z2fEXsG8p5+q8SvCJ/+xNUIWn83G3MEVJSSfkz2jLjRri75T+/t69xqq2CRALR6",
+    "f12_shortcut": {
+      "enabled": true,
+      "flyout_should_show": false
+    },
+    "preferences": {
+      "EdgeInspector.actionsTabSplitViewState": "{\"vertical\":{\"size\":0,\"showMode\":\"Both\"},\"horizontal\":{\"size\":30,\"showMode\":\"Both\"}}",
+      "Inspector.drawerSplitViewState": "{\"horizontal\":{\"size\":405,\"showMode\":\"Both\"},\"vertical\":{\"size\":0,\"showMode\":\"Both\"}}",
+      "InspectorView.splitViewState": "{\"vertical\":{\"size\":381},\"horizontal\":{\"size\":0}}",
+      "Styles-pane-sidebar-tabOrder": "{\"Styles\":10,\"Computed\":20,\"elements.layout\":30,\"elements.eventListeners\":40,\"elements.domBreakpoints\":50,\"elements.domProperties\":60,\"accessibility.view\":70,\"AdGuard\":80}",
+      "cacheDisabled": "true",
+      "closeableTabs": "{\"security\":true,\"heap_profiler\":true,\"resources\":true,\"lighthouse\":true,\"welcome\":true,\"timeline\":true,\"network\":true,\"cssoverview\":true,\"issues-pane\":true}",
+      "cloudReleaseNotes": "{\"edgeVersion\":120,\"shouldOpenWelcome\":false,\"help\":[{\"title\":\"DevTools documentation\",\"linkId\":\"2196640\",\"localizedAnnouncementKey\":\"helpCard1\",\"iconName\":\"elements_panel_icon\"},{\"title\":\"Overview of all tools\",\"linkId\":\"2196549\",\"localizedAnnouncementKey\":\"helpCard2\",\"iconName\":\"edge-documentation\"},{\"title\":\"Debug DOM memory leaks with Detached Elements \",\"linkId\":\"2196550\",\"localizedAnnouncementKey\":\"helpCard3\",\"iconName\":\"edge-airlock\"},{\"title\":\"Use the new DevTools UX\",\"linkId\":\"2196484\",\"localizedAnnouncementKey\":\"helpCard4\",\"iconName\":\"edge-ABL-move_to_left\"},{\"title\":\"Videos about web development with Microsoft Edge\",\"linkId\":\"2196701\",\"localizedAnnouncementKey\":\"helpCard5\",\"iconName\":\"edge-run_command\"},{\"title\":\"Accessibility testing features\",\"linkId\":\"2196801\",\"localizedAnnouncementKey\":\"helpCard6\",\"iconName\":\"accessibility-icon\"},{\"title\":\"Use the Console tool to track down problems\",\"linkId\":\"2196702\",\"localizedAnnouncementKey\":\"helpCard7\",\"iconName\":\"edge-console\"},{\"title\":\"Modify and debug JS with the Sources tool\",\"linkId\":\"2196900\",\"localizedAnnouncementKey\":\"helpCard8\",\"iconName\":\"edge-sources\"},{\"title\":\"Find source files for a page using the search tool\",\"linkId\":\"2196802\",\"localizedAnnouncementKey\":\"helpCard9\",\"iconName\":\"edge-sources.search-sources-tab\"},{\"title\":\"Microsoft Edge DevTools for Visual Studio Code\",\"linkId\":\"2196901\",\"localizedAnnouncementKey\":\"helpCard10\",\"iconName\":\"edge-help_tooltips\"}],\"releaseNotes\":[{\"title\":\"Improvements for connecting DevTools to Azure Artifacts symbol server\",\"subtitle\":\"You can now use Azure Active Directory for authentication instead of Personal Access Tokens (PATs). You can connect to multiple symbol servers and filter which sourcemaps you want DevTools to fetch.\",\"linkId\":\"2245371\",\"localizedAnnouncementKey\":\"edgeAnnouncement1\"},{\"title\":\"Memory tool enhancements\",\"subtitle\":\"The \\\"Allocation instrumentation on timeline\\\" profiling type in the Memory tool now samples the heap at variable intervals, depending on the size of the heap. Heap snapshots are now more accurate and don't show objects that should have been garbage-collected.\",\"linkId\":\"2245467\",\"localizedAnnouncementKey\":\"edgeAnnouncement2\"},{\"title\":\"Refreshed DevTools icons and buttons\",\"subtitle\":\"New icons and buttons give an update to the DevTools look and feel.\",\"linkId\":\"2245468\",\"localizedAnnouncementKey\":\"edgeAnnouncement3\"},{\"title\":\"Screen readers correctly announce dropdown state in Device Mode\",\"subtitle\":\"In Device Mode, screen readers now correctly announce the state of dropdown menus (for example, announcing \\\"collapsed\\\" when the dropdown menu is collapsed).\",\"linkId\":\"2245469\",\"localizedAnnouncementKey\":\"edgeAnnouncement4\"},{\"title\":\"Profiling improvements for the Performance tool\",\"subtitle\":\"Your web content will now be more responsive while profiling in the Performance tool, and \\\"Profiler Overhead\\\" blocks of CPU time have been added, to account for the additional time Microsoft Edge needs when profiling.\",\"linkId\":\"2245562\",\"localizedAnnouncementKey\":\"edgeAnnouncement5\"}],\"header\":{\"localizedKey\":\"highlightsFromTheLatestMicrosoft\",\"title\":\"What's New\"},\"learnHeader\":{\"localizedKey\":\"learnHeader\",\"title\":\"Learn\"},\"allAnnouncementsLinkText\":{\"localizedKey\":\"allAnnouncementsLinkText\",\"title\":\"View all\"},\"whatsNewVideo\":{\"title\":\"Video: Microsoft Edge | What's New in DevTools 113 and 114\",\"subtitle\":\"Catch up on some of the latest and greatest advances in developer tooling with us.\",\"imageName\":\"whats-new-113-114-thumbnail.jpg\",\"linkId\":\"jtKVcLaA5Yw\",\"localizedKey\":\"highlightsFromTheLatestDevTools\"},\"viewAllLinkId\":\"2245706\",\"localized\":{\"en-US\":{\"panels/welcome/ReleaseNotes.ts | helpCard1\":{\"message\":\"DevTools documentation\",\"description\":\"Title of a help link in a list of help section.\"},\"panels/welcome/ReleaseNotes.ts | helpCard2\":{\"message\":\"Overview of all tools\",\"description\":\"Title of a help link in a list of help section.\"},\"panels/welcome/ReleaseNotes.ts | helpCard3\":{\"message\":\"Debug DOM memory leaks with Detached Elements \",\"description\":\"Title of a help link in a list of help section.\"},\"panels/welcome/ReleaseNotes.ts | helpCard4\":{\"message\":\"Use the new DevTools UX\",\"description\":\"Title of a help link in a list of help section.\"},\"panels/welcome/ReleaseNotes.ts | helpCard5\":{\"message\":\"Videos about web development with Microsoft Edge\",\"description\":\"Title of a help link in a list of help section.\"},\"panels/welcome/ReleaseNotes.ts | helpCard6\":{\"message\":\"Accessibility testing features\",\"description\":\"Title of a help link in a list of help section.\"},\"panels/welcome/ReleaseNotes.ts | helpCard7\":{\"message\":\"Use the Console tool to track down problems\",\"description\":\"Title of a help link in a list of help section.\"},\"panels/welcome/ReleaseNotes.ts | helpCard8\":{\"message\":\"Modify and debug JS with the Sources tool\",\"description\":\"Title of a help link in a list of help section.\"},\"panels/welcome/ReleaseNotes.ts | helpCard9\":{\"message\":\"Find source files for a page using the search tool\",\"description\":\"Title of a help link in a list of help section.\"},\"panels/welcome/ReleaseNotes.ts | helpCard10\":{\"message\":\"Microsoft Edge DevTools for Visual Studio Code\",\"description\":\"Title of a help link in a list of help section.\"},\"panels/welcome/ReleaseNotes.ts | edgeAnnouncement1\":{\"message\":\"Improvements for connecting DevTools to Azure Artifacts symbol server\",\"description\":\"Title of a release note, shown next to a description, in a list of release notes.\"},\"panels/welcome/ReleaseNotes.ts | edgeAnnouncement1Description\":{\"message\":\"You can now use Azure Active Directory for authentication instead of Personal Access Tokens (PATs). You can connect to multiple symbol servers and filter which sourcemaps you want DevTools to fetch.\",\"description\":\"Description of a release note providing further details, shown next to each release note title.\"},\"panels/welcome/ReleaseNotes.ts | edgeAnnouncement2\":{\"message\":\"Memory tool enhancements\",\"description\":\"Title of a release note, shown next to a description, in a list of release notes.\"},\"panels/welcome/ReleaseNotes.ts | edgeAnnouncement2Description\":{\"message\":\"The \\\"Allocation instrumentation on timeline\\\" profiling type in the Memory tool now samples the heap at variable intervals, depending on the size of the heap. Heap snapshots are now more accurate and don't show objects that should have been garbage-collected.\",\"description\":\"Description of a release note providing further details, shown next to each release note title.\"},\"panels/welcome/ReleaseNotes.ts | edgeAnnouncement3\":{\"message\":\"Refreshed DevTools icons and buttons\",\"description\":\"Title of a release note, shown next to a description, in a list of release notes.\"},\"panels/welcome/ReleaseNotes.ts | edgeAnnouncement3Description\":{\"message\":\"New icons and buttons give an update to the DevTools look and feel.\",\"description\":\"Description of a release note providing further details, shown next to each release note title.\"},\"panels/welcome/ReleaseNotes.ts | edgeAnnouncement4\":{\"message\":\"Screen readers correctly announce dropdown state in Device Mode\",\"description\":\"Title of a release note, shown next to a description, in a list of release notes.\"},\"panels/welcome/ReleaseNotes.ts | edgeAnnouncement4Description\":{\"message\":\"In Device Mode, screen readers now correctly announce the state of dropdown menus (for example, announcing \\\"collapsed\\\" when the dropdown menu is collapsed).\",\"description\":\"Description of a release note providing further details, shown next to each release note title.\"},\"panels/welcome/ReleaseNotes.ts | edgeAnnouncement5\":{\"message\":\"Profiling improvements for the Performance tool\",\"description\":\"Title of a release note, shown next to a description, in a list of release notes.\"},\"panels/welcome/ReleaseNotes.ts | edgeAnnouncement5Description\":{\"message\":\"Your web content will now be more responsive while profiling in the Performance tool, and \\\"Profiler Overhead\\\" blocks of CPU time have been added, to account for the additional time Microsoft Edge needs when profiling.\",\"description\":\"Description of a release note providing further details, shown next to each release note title.\"},\"panels/welcome/ReleaseNotes.ts | learnHeader\":{\"message\":\"Learn\",\"description\":\"Title text of a header bar in the welcome tool.\"},\"panels/welcome/ReleaseNotes.ts | highlightsFromTheLatestMicrosoft\":{\"message\":\"What's New\",\"description\":\"Title text of a header bar in the welcome tool.\"},\"panels/welcome/ReleaseNotes.ts | highlightsFromTheLatestDevTools\":{\"message\":\"Video: Microsoft Edge | What's New in DevTools 113 and 114\",\"description\":\"Title of a video summarizing the latest release, shown next to a description, above a list of release notes.\"},\"panels/welcome/ReleaseNotes.ts | highlightsFromTheLatestDevToolsDescription\":{\"message\":\"Catch up on some of the latest and greatest advances in developer tooling with us.\",\"description\":\"Description of a video link providing further details\"}}}}",
+      "console.sidebar.width": "{\"vertical\":{\"size\":0,\"showMode\":\"OnlyMain\"}}",
+      "console.sidebarSelectedFilter": "\"message\"",
+      "console.textFilter": "\"\"",
+      "consoleShowSettingsToolbar": "false",
+      "currentDockState": "\"undocked\"",
+      "dataGrid-networkLog-columnWeights": "{\"name\":31.129711246470084,\"path\":6,\"url\":6,\"method\":6,\"status\":6,\"protocol\":6,\"scheme\":6,\"domain\":6,\"remoteaddress\":10,\"remoteaddress-space\":10,\"type\":6,\"initiator\":8.465837111609218,\"initiator-address-space\":10,\"cookies\":6,\"setcookies\":6,\"size\":6,\"time\":1.3356203544882803,\"priority\":6,\"connectionid\":6,\"cache-control\":6,\"connection\":6,\"content-encoding\":6,\"content-length\":6,\"etag\":6,\"has-overrides\":6,\"keep-alive\":6,\"last-modified\":6,\"server\":6,\"vary\":6,\"waterfall\":6,\"response-fulfilled-by-comment\":1.0688312874324493,\"status-text\":6}",
+      "drawer-view-selectedTab": "\"console-view\"",
+      "drawer-view-tabOrder": "{\"console-view\":10,\"issues-pane\":20}",
+      "drawerMinimizeState": "false",
+      "drawerVerticalOrientation": "false",
+      "elements.styles.sidebar.width": "{\"vertical\":{\"size\":0,\"showMode\":\"OnlyMain\"}}",
+      "elementsPanelSplitViewState": "{\"vertical\":{\"size\":233}}",
+      "emulation.deviceModeValue": "{\"device\":\"iPad Air\",\"orientation\":\"vertical\",\"mode\":\"default\"}",
+      "emulation.deviceScale": "1.5",
+      "emulation.showDeviceMode": "false",
+      "focusModeViews": "[{\"id\":\"welcome\",\"locationId\":\"panel\",\"iconName\":\"welcome\"},{\"id\":\"elements\",\"locationId\":\"panel\",\"iconName\":\"elements\"},{\"id\":\"console\",\"locationId\":\"panel\",\"iconName\":\"console\"},{\"id\":\"sources\",\"locationId\":\"panel\",\"iconName\":\"sources\"},{\"id\":\"network\",\"locationId\":\"panel\",\"iconName\":\"network\"},{\"id\":\"timeline\",\"locationId\":\"panel\",\"iconName\":\"timeline\"},{\"id\":\"heap_profiler\",\"locationId\":\"panel\",\"iconName\":\"heap_profiler\"},{\"id\":\"resources\",\"locationId\":\"panel\",\"iconName\":\"resources\"},{\"id\":\"chrome-extension://fngmhnnpilhplaeedifhccceomclgfbgEditThisCookie\",\"locationId\":\"panel\",\"iconName\":\"chrome-extension://fngmhnnpilhplaeedifhccceomclgfbgEditThisCookie\"}]",
+      "groupComputedStyles": "true",
+      "inspectorVersion": "37",
+      "issuesBrowserSelection": "[\"edge\",\"chrome\",\"firefox\",\"safari\",\"iOS\",\"and_chr\",\"and_ff\"]",
+      "issuesSeveritySelection": "[false,false,true,true]",
+      "lastDockState": "\"right\"",
+      "lastOpenViewInDrawer": "\"console\"",
+      "networkHideDataURL": "false",
+      "networkInvertFilter": "false",
+      "networkOnlyBlockedRequests": "false",
+      "networkOnlyThirdPartySetting": "false",
+      "networkPanelSidebarState": "{\"vertical\":{\"size\":0,\"showMode\":\"OnlyMain\"}}",
+      "networkPanelSplitViewState": "{\"vertical\":{\"size\":638}}",
+      "networkPanelSplitViewWaterfall": "{\"vertical\":{\"size\":0}}",
+      "networkResourceTypeFilters": "{\"XHR and Fetch\":true}",
+      "networkShowIssuesOnly": "false",
+      "networkTextFilter": "\"\"",
+      "network_log.preserve-log": "true",
+      "panel-selectedTab": "\"console\"",
+      "panel-tabOrder": "{\"elements\":10,\"console\":20,\"sources\":30,\"network\":40,\"timeline\":50,\"heap_profiler\":60,\"resources\":70,\"security\":80,\"lighthouse\":90,\"cssoverview\":100,\"welcome\":110,\"chrome-extension://fngmhnnpilhplaeedifhccceomclgfbgEditThisCookie\":120}",
+      "releaseNoteVersionSeen": "114",
+      "request-info-formData-category-expanded": "true",
+      "request-info-general-category-expanded": "true",
+      "request-info-queryString-category-expanded": "true",
+      "request-info-requestHeaders-category-expanded": "true",
+      "request-info-requestPayload-category-expanded": "true",
+      "request-info-responseHeaders-category-expanded": "true",
+      "resourceViewTab": "\"headers\"",
+      "resourcesLastSelectedElementPath": "[\"storage://https://www.deezer.com/session\",\"category://Session Storage\"]",
+      "resourcesLocalStorageExpanded": "true",
+      "resourcesSessionStorageExpanded": "true",
+      "selectedProfileType": "\"HEAP\"",
+      "showInheritedComputedStyleProperties": "false",
+      "showThirdPartyIssues": "true",
+      "sourcesPanelNavigatorSplitViewState": "{\"vertical\":{\"size\":0,\"showMode\":\"Both\"}}",
+      "sourcesPanelSplitViewState": "{\"vertical\":{\"size\":0,\"showMode\":\"Both\"}}",
+      "standardEmulatedDeviceList": "[{\"title\":\"iPhone SE\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":375,\"height\":667},\"horizontal\":{\"width\":667,\"height\":375}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"iPhone XR\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":414,\"height\":896},\"horizontal\":{\"width\":896,\"height\":414}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"iPhone 12 Pro\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3,\"vertical\":{\"width\":390,\"height\":844},\"horizontal\":{\"width\":844,\"height\":390}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"Pixel 3 XL\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 11; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2.75,\"vertical\":{\"width\":393,\"height\":786},\"horizontal\":{\"width\":786,\"height\":393}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"11\",\"architecture\":\"\",\"model\":\"Pixel 3\",\"mobile\":true}},{\"title\":\"Pixel 5\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2.75,\"vertical\":{\"width\":393,\"height\":851},\"horizontal\":{\"width\":851,\"height\":393}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"11\",\"architecture\":\"\",\"model\":\"Pixel 5\",\"mobile\":true}},{\"title\":\"Samsung Galaxy S8+\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":4,\"vertical\":{\"width\":360,\"height\":740},\"horizontal\":{\"width\":740,\"height\":360}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"8.0.0\",\"architecture\":\"\",\"model\":\"SM-G955U\",\"mobile\":true}},{\"title\":\"Samsung Galaxy S20 Ultra\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3.5,\"vertical\":{\"width\":412,\"height\":915},\"horizontal\":{\"width\":915,\"height\":412}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"10\",\"architecture\":\"\",\"model\":\"SM-G981B\",\"mobile\":true}},{\"title\":\"iPad Air\",\"type\":\"tablet\",\"user-agent\":\"Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":820,\"height\":1180},\"horizontal\":{\"width\":1180,\"height\":820}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"iPad Mini\",\"type\":\"tablet\",\"user-agent\":\"Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":768,\"height\":1024},\"horizontal\":{\"width\":1024,\"height\":768}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"Surface Pro 7\",\"type\":\"tablet\",\"user-agent\":\"Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":912,\"height\":1368},\"horizontal\":{\"width\":1368,\"height\":912}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"Surface Duo\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 11.0; Surface Duo) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2.5,\"vertical\":{\"width\":540,\"height\":720},\"horizontal\":{\"width\":720,\"height\":540},\"vertical-spanned\":{\"width\":1114,\"height\":720,\"hinge\":{\"width\":34,\"height\":720,\"x\":540,\"y\":0,\"contentColor\":{\"r\":38,\"g\":38,\"b\":38,\"a\":1}}},\"horizontal-spanned\":{\"width\":720,\"height\":1114,\"hinge\":{\"width\":720,\"height\":34,\"x\":0,\"y\":540,\"contentColor\":{\"r\":38,\"g\":38,\"b\":38,\"a\":1}}}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"spanned\",\"orientation\":\"vertical-spanned\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"spanned\",\"orientation\":\"horizontal-spanned\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":true,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"11.0\",\"architecture\":\"\",\"model\":\"Surface Duo\",\"mobile\":true}},{\"title\":\"Galaxy Fold\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 9.0; SAMSUNG SM-F900U Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3,\"vertical\":{\"width\":280,\"height\":653},\"horizontal\":{\"width\":653,\"height\":280},\"vertical-spanned\":{\"width\":717,\"height\":512},\"horizontal-spanned\":{\"width\":512,\"height\":717}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"spanned\",\"orientation\":\"vertical-spanned\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"spanned\",\"orientation\":\"horizontal-spanned\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":true,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"9.0\",\"architecture\":\"\",\"model\":\"SM-F900U\",\"mobile\":true}},{\"title\":\"Samsung Galaxy A51/71\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2.625,\"vertical\":{\"width\":412,\"height\":914},\"horizontal\":{\"width\":914,\"height\":412}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"8.0.0\",\"architecture\":\"\",\"model\":\"SM-G955U\",\"mobile\":true}},{\"title\":\"Nest Hub Max\",\"type\":\"tablet\",\"user-agent\":\"Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":1280,\"height\":800},\"horizontal\":{\"width\":1280,\"height\":800,\"outline\":{\"insets\":{\"left\":92,\"top\":96,\"right\":91,\"bottom\":248},\"image\":\"@url(google-nest-hub-max-horizontal.svg)\"}}},\"modes\":[{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"Nest Hub\",\"type\":\"tablet\",\"user-agent\":\"Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":1024,\"height\":600},\"horizontal\":{\"width\":1024,\"height\":600,\"outline\":{\"insets\":{\"left\":82,\"top\":74,\"right\":83,\"bottom\":222},\"image\":\"@url(google-nest-hub-horizontal.svg)\"}}},\"modes\":[{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":true,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"\",\"architecture\":\"\",\"model\":\"\",\"mobile\":true}},{\"title\":\"iPhone 4\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":320,\"height\":480},\"horizontal\":{\"width\":480,\"height\":320}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"iPhone 5/SE\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":320,\"height\":568,\"outline\":{\"insets\":{\"left\":29,\"top\":105,\"right\":25,\"bottom\":111},\"image\":\"@url(iPhone5-portrait.svg)\"}},\"horizontal\":{\"width\":568,\"height\":320,\"outline\":{\"insets\":{\"left\":115,\"top\":25,\"right\":115,\"bottom\":28},\"image\":\"@url(iPhone5-landscape.svg)\"}}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"iPhone 6/7/8\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":375,\"height\":667,\"outline\":{\"insets\":{\"left\":28,\"top\":105,\"right\":28,\"bottom\":105},\"image\":\"@url(iPhone6-portrait.svg)\"}},\"horizontal\":{\"width\":667,\"height\":375,\"outline\":{\"insets\":{\"left\":106,\"top\":28,\"right\":106,\"bottom\":28},\"image\":\"@url(iPhone6-landscape.svg)\"}}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"iPhone 6/7/8 Plus\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3,\"vertical\":{\"width\":414,\"height\":736,\"outline\":{\"insets\":{\"left\":26,\"top\":107,\"right\":30,\"bottom\":111},\"image\":\"@url(iPhone6Plus-portrait.svg)\"}},\"horizontal\":{\"width\":736,\"height\":414,\"outline\":{\"insets\":{\"left\":109,\"top\":29,\"right\":109,\"bottom\":27},\"image\":\"@url(iPhone6Plus-landscape.svg)\"}}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"iPhone X\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3,\"vertical\":{\"width\":375,\"height\":812},\"horizontal\":{\"width\":812,\"height\":375}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"BlackBerry Z30\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.9.2372 Mobile Safari/537.10+ Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":360,\"height\":640},\"horizontal\":{\"width\":640,\"height\":360}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"Nexus 4\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":384,\"height\":640},\"horizontal\":{\"width\":640,\"height\":384}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"4.4.2\",\"architecture\":\"\",\"model\":\"Nexus 4\",\"mobile\":true}},{\"title\":\"Nexus 5\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3,\"vertical\":{\"width\":360,\"height\":640},\"horizontal\":{\"width\":640,\"height\":360}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":25,\"right\":0,\"bottom\":48},\"image\":\"@url(google-nexus-5-vertical-default-1x.png) 1x, @url(google-nexus-5-vertical-default-2x.png) 2x\"},{\"title\":\"navigation bar\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":80,\"right\":0,\"bottom\":48},\"image\":\"@url(google-nexus-5-vertical-navigation-1x.png) 1x, @url(google-nexus-5-vertical-navigation-2x.png) 2x\"},{\"title\":\"keyboard\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":80,\"right\":0,\"bottom\":312},\"image\":\"@url(google-nexus-5-vertical-keyboard-1x.png) 1x, @url(google-nexus-5-vertical-keyboard-2x.png) 2x\"},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":25,\"right\":42,\"bottom\":0},\"image\":\"@url(google-nexus-5-horizontal-default-1x.png) 1x, @url(google-nexus-5-horizontal-default-2x.png) 2x\"},{\"title\":\"navigation bar\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":80,\"right\":42,\"bottom\":0},\"image\":\"@url(google-nexus-5-horizontal-navigation-1x.png) 1x, @url(google-nexus-5-horizontal-navigation-2x.png) 2x\"},{\"title\":\"keyboard\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":80,\"right\":42,\"bottom\":202},\"image\":\"@url(google-nexus-5-horizontal-keyboard-1x.png) 1x, @url(google-nexus-5-horizontal-keyboard-2x.png) 2x\"}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"6.0\",\"architecture\":\"\",\"model\":\"Nexus 5\",\"mobile\":true}},{\"title\":\"Nexus 5X\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 8.0.0; Nexus 5X Build/OPR4.170623.006) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2.625,\"vertical\":{\"width\":412,\"height\":732,\"outline\":{\"insets\":{\"left\":18,\"top\":88,\"right\":22,\"bottom\":98},\"image\":\"@url(Nexus5X-portrait.svg)\"}},\"horizontal\":{\"width\":732,\"height\":412,\"outline\":{\"insets\":{\"left\":88,\"top\":21,\"right\":98,\"bottom\":19},\"image\":\"@url(Nexus5X-landscape.svg)\"}}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":24,\"right\":0,\"bottom\":48},\"image\":\"@url(google-nexus-5x-vertical-default-1x.png) 1x, @url(google-nexus-5x-vertical-default-2x.png) 2x\"},{\"title\":\"navigation bar\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":80,\"right\":0,\"bottom\":48},\"image\":\"@url(google-nexus-5x-vertical-navigation-1x.png) 1x, @url(google-nexus-5x-vertical-navigation-2x.png) 2x\"},{\"title\":\"keyboard\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":80,\"right\":0,\"bottom\":342},\"image\":\"@url(google-nexus-5x-vertical-keyboard-1x.png) 1x, @url(google-nexus-5x-vertical-keyboard-2x.png) 2x\"},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":24,\"right\":48,\"bottom\":0},\"image\":\"@url(google-nexus-5x-horizontal-default-1x.png) 1x, @url(google-nexus-5x-horizontal-default-2x.png) 2x\"},{\"title\":\"navigation bar\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":80,\"right\":48,\"bottom\":0},\"image\":\"@url(google-nexus-5x-horizontal-navigation-1x.png) 1x, @url(google-nexus-5x-horizontal-navigation-2x.png) 2x\"},{\"title\":\"keyboard\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":80,\"right\":48,\"bottom\":222},\"image\":\"@url(google-nexus-5x-horizontal-keyboard-1x.png) 1x, @url(google-nexus-5x-horizontal-keyboard-2x.png) 2x\"}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"8.0.0\",\"architecture\":\"\",\"model\":\"Nexus 5X\",\"mobile\":true}},{\"title\":\"Nexus 6\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 7.1.1; Nexus 6 Build/N6F26U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3.5,\"vertical\":{\"width\":412,\"height\":732},\"horizontal\":{\"width\":732,\"height\":412}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"7.1.1\",\"architecture\":\"\",\"model\":\"Nexus 6\",\"mobile\":true}},{\"title\":\"Nexus 6P\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 8.0.0; Nexus 6P Build/OPP3.170518.006) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3.5,\"vertical\":{\"width\":412,\"height\":732,\"outline\":{\"insets\":{\"left\":16,\"top\":94,\"right\":16,\"bottom\":88},\"image\":\"@url(Nexus6P-portrait.svg)\"}},\"horizontal\":{\"width\":732,\"height\":412,\"outline\":{\"insets\":{\"left\":94,\"top\":17,\"right\":88,\"bottom\":17},\"image\":\"@url(Nexus6P-landscape.svg)\"}}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"8.0.0\",\"architecture\":\"\",\"model\":\"Nexus 6P\",\"mobile\":true}},{\"title\":\"Pixel 2\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2.625,\"vertical\":{\"width\":411,\"height\":731},\"horizontal\":{\"width\":731,\"height\":411}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"8.0\",\"architecture\":\"\",\"model\":\"Pixel 2\",\"mobile\":true}},{\"title\":\"Pixel 2 XL\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3.5,\"vertical\":{\"width\":411,\"height\":823},\"horizontal\":{\"width\":823,\"height\":411}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"8.0.0\",\"architecture\":\"\",\"model\":\"Pixel 2 XL\",\"mobile\":true}},{\"title\":\"Pixel 3\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 9; Pixel 3 Build/PQ1A.181105.017.A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2.75,\"vertical\":{\"width\":393,\"height\":786},\"horizontal\":{\"width\":786,\"height\":393}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"9\",\"architecture\":\"\",\"model\":\"Pixel 3\",\"mobile\":true}},{\"title\":\"Pixel 4\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 10; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3,\"vertical\":{\"width\":353,\"height\":745},\"horizontal\":{\"width\":745,\"height\":353}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"10\",\"architecture\":\"\",\"model\":\"Pixel 4\",\"mobile\":true}},{\"title\":\"LG Optimus L70\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; LGMS323 Build/KOT49I.MS32310c) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":1.25,\"vertical\":{\"width\":384,\"height\":640},\"horizontal\":{\"width\":640,\"height\":384}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"4.4.2\",\"architecture\":\"\",\"model\":\"LGMS323\",\"mobile\":true}},{\"title\":\"Nokia N9\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (MeeGo; NokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":1,\"vertical\":{\"width\":480,\"height\":854},\"horizontal\":{\"width\":854,\"height\":480}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"Nokia Lumia 520\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520) Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":1.5,\"vertical\":{\"width\":320,\"height\":533},\"horizontal\":{\"width\":533,\"height\":320}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"Microsoft Lumia 550\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Microsoft; Lumia 550) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/14.14263 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":640,\"height\":360},\"horizontal\":{\"width\":640,\"height\":360}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"4.2.1\",\"architecture\":\"\",\"model\":\"Lumia 550\",\"mobile\":true}},{\"title\":\"Microsoft Lumia 950\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Microsoft; Lumia 950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/14.14263 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":4,\"vertical\":{\"width\":360,\"height\":640},\"horizontal\":{\"width\":640,\"height\":360}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"4.2.1\",\"architecture\":\"\",\"model\":\"Lumia 950\",\"mobile\":true}},{\"title\":\"Galaxy S III\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; U; Android 4.0; en-us; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":360,\"height\":640},\"horizontal\":{\"width\":640,\"height\":360}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"4.0\",\"architecture\":\"\",\"model\":\"GT-I9300\",\"mobile\":true}},{\"title\":\"Galaxy S5\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3,\"vertical\":{\"width\":360,\"height\":640},\"horizontal\":{\"width\":640,\"height\":360}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"5.0\",\"architecture\":\"\",\"model\":\"SM-G900P\",\"mobile\":true}},{\"title\":\"Galaxy S8\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 7.0; SM-G950U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3,\"vertical\":{\"width\":360,\"height\":740},\"horizontal\":{\"width\":740,\"height\":360}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"7.0\",\"architecture\":\"\",\"model\":\"SM-G950U\",\"mobile\":true}},{\"title\":\"Galaxy S9+\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 8.0.0; SM-G965U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":4.5,\"vertical\":{\"width\":320,\"height\":658},\"horizontal\":{\"width\":658,\"height\":320}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"8.0.0\",\"architecture\":\"\",\"model\":\"SM-G965U\",\"mobile\":true}},{\"title\":\"Galaxy Tab S4\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Safari/537.36 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2.25,\"vertical\":{\"width\":712,\"height\":1138},\"horizontal\":{\"width\":1138,\"height\":712}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"8.1.0\",\"architecture\":\"\",\"model\":\"SM-T837A\",\"mobile\":true}},{\"title\":\"JioPhone 2\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Mobile; LYF/F300B/LYF-F300B-001-01-15-130718-i;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":1,\"vertical\":{\"width\":240,\"height\":320},\"horizontal\":{\"width\":320,\"height\":240}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"\",\"architecture\":\"\",\"model\":\"LYF/F300B/LYF-F300B-001-01-15-130718-i\",\"mobile\":true}},{\"title\":\"Kindle Fire HDX\",\"type\":\"tablet\",\"user-agent\":\"Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":800,\"height\":1280},\"horizontal\":{\"width\":1280,\"height\":800}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"iPad\",\"type\":\"tablet\",\"user-agent\":\"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":768,\"height\":1024,\"outline\":{\"insets\":{\"left\":52,\"top\":114,\"right\":55,\"bottom\":114},\"image\":\"@url(iPad-portrait.svg)\"}},\"horizontal\":{\"width\":1024,\"height\":768,\"outline\":{\"insets\":{\"left\":112,\"top\":56,\"right\":116,\"bottom\":52},\"image\":\"@url(iPad-landscape.svg)\"}}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"iPad Pro\",\"type\":\"tablet\",\"user-agent\":\"Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":1024,\"height\":1366},\"horizontal\":{\"width\":1366,\"height\":1024}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"Blackberry PlayBook\",\"type\":\"tablet\",\"user-agent\":\"Mozilla/5.0 (PlayBook; U; RIM Tablet OS 2.1.0; en-US) AppleWebKit/536.2+ (KHTML like Gecko) Version/7.2.1.0 Safari/536.2+ Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":1,\"vertical\":{\"width\":600,\"height\":1024},\"horizontal\":{\"width\":1024,\"height\":600}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\"},{\"title\":\"Nexus 10\",\"type\":\"tablet\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 10 Build/MOB31T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":800,\"height\":1280},\"horizontal\":{\"width\":1280,\"height\":800}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"6.0.1\",\"architecture\":\"\",\"model\":\"Nexus 10\",\"mobile\":false}},{\"title\":\"Nexus 7\",\"type\":\"tablet\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":600,\"height\":960},\"horizontal\":{\"width\":960,\"height\":600}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"6.0.1\",\"architecture\":\"\",\"model\":\"Nexus 7\",\"mobile\":false}},{\"title\":\"Galaxy Note 3\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3,\"vertical\":{\"width\":360,\"height\":640},\"horizontal\":{\"width\":640,\"height\":360}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"4.3\",\"architecture\":\"\",\"model\":\"SM-N900T\",\"mobile\":true}},{\"title\":\"Galaxy Note II\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; U; Android 4.1; en-us; GT-N7100 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 Edg/111.0.0.0\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":2,\"vertical\":{\"width\":360,\"height\":640},\"horizontal\":{\"width\":640,\"height\":360}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"4.1\",\"architecture\":\"\",\"model\":\"GT-N7100\",\"mobile\":true}},{\"title\":\"Moto G4\",\"type\":\"phone\",\"user-agent\":\"Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.1661.54\",\"capabilities\":[\"touch\",\"mobile\"],\"screen\":{\"device-pixel-ratio\":3,\"vertical\":{\"width\":360,\"height\":640,\"outline\":{\"insets\":{\"left\":30,\"top\":91,\"right\":30,\"bottom\":74},\"image\":\"@url(MotoG4-portrait.svg)\"}},\"horizontal\":{\"width\":640,\"height\":360,\"outline\":{\"insets\":{\"left\":91,\"top\":30,\"right\":74,\"bottom\":30},\"image\":\"@url(MotoG4-landscape.svg)\"}}},\"modes\":[{\"title\":\"default\",\"orientation\":\"vertical\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}},{\"title\":\"default\",\"orientation\":\"horizontal\",\"insets\":{\"left\":0,\"top\":0,\"right\":0,\"bottom\":0}}],\"show-by-default\":false,\"dual-screen\":false,\"show\":\"Default\",\"user-agent-metadata\":{\"platform\":\"Android\",\"platformVersion\":\"6.0.1\",\"architecture\":\"\",\"model\":\"Moto G (4)\",\"mobile\":true}}]",
+      "timelineCountersSplitViewState": "{\"horizontal\":{\"size\":0}}",
+      "timelineFlamechartMainAndVitalsView": "{\"horizontal\":{\"size\":120}}",
+      "timelineFlamechartMainView": "{\"horizontal\":{\"size\":34}}",
+      "timelineShowMemory": "true",
+      "timelineStartCoverage": "false",
+      "timelineTreeViewDetailsSplitWidget": "{\"vertical\":{\"size\":0}}",
+      "timelineWebVitals": "true",
+      "toolsUsed": "{\"elements\":1703739665531,\"resources\":1665963407109,\"welcome\":1703653162286,\"network\":1703568113671,\"sources\":1703538541490,\"console\":1703739684831,\"console-view\":1665528022018,\"issues-pane\":1667953233900,\"timeline\":1665963404933,\"heap_profiler\":1665963405368,\"security\":1665963407860}",
+      "undefined-tabOrder": "{\"Styles\":10,\"Computed\":20,\"elements.layout\":30,\"elements.eventListeners\":40,\"elements.domBreakpoints\":50,\"elements.domProperties\":60,\"accessibility.view\":70,\"AdGuard\":80}"
+    },
+    "synced_preferences_sync_disabled": {
+      "adornerSettings": "[{\"adorner\":\"grid\",\"isEnabled\":true},{\"adorner\":\"flex\",\"isEnabled\":true},{\"adorner\":\"ad\",\"isEnabled\":true},{\"adorner\":\"scroll-snap\",\"isEnabled\":true},{\"adorner\":\"container\",\"isEnabled\":true},{\"adorner\":\"slot\",\"isEnabled\":true},{\"adorner\":\"top-layer\",\"isEnabled\":true},{\"adorner\":\"reveal\",\"isEnabled\":true},{\"adorner\":\"subgrid\",\"isEnabled\":true},{\"adorner\":\"media\",\"isEnabled\":false}]",
+      "colorFormat": "\"original\"",
+      "disableSelfXssWarning": "true",
+      "monitoringXHREnabled": "true",
+      "syncedInspectorVersion": "37"
+    }
+  },
+  "dips_timer_last_update": "13348350954895757",
+  "domain_diversity": {
+    "last_reporting_timestamp": "13348265328102888"
+  },
+  "download": {
+    "default_directory": "J:\\New folder",
+    "directory_upgrade": true,
+    "last_complete_time": "13346227059320843",
+    "prompt_for_download": false
+  },
+  "dual_engine": {
+    "consumer_mode": {
+      "ie_user": false,
+      "last_navigation_time": "0"
+    },
+    "consumer_site_list_with_ie_entries": false,
+    "consumer_sitelist_location": "",
+    "consumer_sitelist_version": "",
+    "external_consumer_shared_cookie_data": {},
+    "profile_id": "KWKN47ZB",
+    "shared_cookie_data": {},
+    "sitelist_has_consumer_data": false,
+    "sitelist_has_enterprise_data": false,
+    "sitelist_location": "",
+    "sitelist_source": 0,
+    "sitelist_version": "",
+    "user_list_data_1": {}
+  },
+  "edge": {
+    "account_type": 1,
+    "perf_center": {
+      "performance_detector": true
+    },
+    "profile_matches_os_primary_account": false,
+    "profile_sso_info": {
+      "aad_sso_algo_state": 1,
+      "is_first_profile": true
+    },
+    "profile_sso_option": 1,
+    "services": {
+      "last_gaia_id": "00034001AC452EC4",
+      "signin_scoped_device_id": "c1609964-db46-4697-be90-cd0a617339ae"
+    },
+    "show_minimised_pip_overlay": true,
+    "sleeping_tabs": {
+      "awareness_bubble": {
+        "shown_times": 1
+      }
+    },
+    "super_duper_secure_mode": {
+      "enabled": true
+    },
+    "test_on_premises_profile": false,
+    "vertical_tabs": {
+      "feedback_do_not_show": true,
+      "flyout_do_not_show": true
+    },
+    "workspaces": {
+      "has_workspace": true,
+      "heartbeat_last_sent_time": 1703816412.264972,
+      "msa_allowed": true,
+      "skype_available_for_msa_telemetry": true,
+      "state": "{\"edgeWorkspacePrefsVersion\":2,\"enableFluid\":true,\"failedRestartSpaceId\":\"\",\"failedToConnectToFluid\":false,\"fluidStatus\":0,\"fre_shown\":true,\"isFluidPreferencesConnected\":false,\"isSpaceOpening\":false,\"openingSpaceId\":\"\",\"spacesErrorState\":1,\"statusForScreenReaders\":\"\",\"workspacePopupMode\":1,\"workspacesForExternalLinks\":[]}",
+      "storage": {
+        "state": "{\"app_folder_path\":\"\",\"container_id\":\"b!1C9DsSn_z0O7yKoH0oaWUD-_s6t3hvhIgx2fwDb0TRNPmbhvQr06Trx81phk1SxO\",\"drive_id\":\"b!1C9DsSn_z0O7yKoH0oaWUD-_s6t3hvhIgx2fwDb0TRNPmbhvQr06Trx81phk1SxO\",\"prefs_item_id\":\"\",\"storage_endpoint\":\"home.microsoftpersonalcontent.com/contentstorage/6CznihN3v0uy1zK5FrRCbw96c3b0ae7c2036b9workspaces\"}"
+      },
+      "sync_consent": true,
+      "user_funnel_entry_point": 2
+    }
+  },
+  "edge_drag_to_create_group_count": 1,
+  "edge_e_drop": {
+    "static_css_url": "https://edge-conumer-static.azureedge.net/static/edropstatic/2023/09/13/2/static/css/main.ae43b158.css",
+    "static_js_url": "https://edge-conumer-static.azureedge.net/static/edropstatic/2023/09/13/2/static/js/main.2c5481de.js",
+    "static_version": 81,
+    "subscription_id": "CgdEZWZhdWx0EAUYvJ2upfr_____AQ edrop_service",
+    "subscription_registered_in_server": true
+  },
+  "edge_followable_web_hub_pinned": true,
+  "edge_fundamentals_appdefaults": {
+    "enclave_version": 101
+  },
+  "edge_rewards": {
+    "cache_data": "CAA=",
+    "coachmark_muted_until_dict": {
+      "amazon": "13298684434424956",
+      "lol": "13294789991798019",
+      "minecraft": "13294789991798020",
+      "natureConservancy": "13294790008871281",
+      "roblox": "13294789991798018",
+      "unicef": "13294790008871265",
+      "wikipedia": "13294790008871273"
+    },
+    "coachmark_promotions": {},
+    "coachmark_shown_count_dict": {
+      "amazon": 0,
+      "lol": 0,
+      "minecraft": 0,
+      "natureConservancy": 0,
+      "roblox": 0,
+      "unicef": 0,
+      "wikipedia": 0
+    },
+    "coachmark_was_accepted_dict": {
+      "amazon": false,
+      "lol": false,
+      "minecraft": false,
+      "natureConservancy": false,
+      "roblox": false,
+      "unicef": false,
+      "wikipedia": false
+    },
+    "daily_set_scheduled_time": "13311730800000000",
+    "hva_promotions": [],
+    "new_bing_chat_count": 5,
+    "new_bing_last_chat_date": "13343922632184941",
+    "opened_via_prototocol_launch": false,
+    "promotions": [
+      {
+        "attributes": {
+          "State": "Default",
+          "activityprogress": "0",
+          "animated_icon": "//az15297.vo.msecnd.net/images/rewards/membercenter/missions/Animated-Icons/newEdgeLogo.json",
+          "bg_image": "//az15297.vo.msecnd.net/images/rewards/membercenter/missions/Animated-Banners/Banner_Rewards_Intro_Banner_ChromeExtension_small.png",
+          "complete": "False",
+          "description": "Search here for 3 days and earn an extra 3,100 points.",
+          "destination": "",
+          "edgebar_description": "",
+          "edgebar_disclaimer": "Offre valide pour 1 personne/compte dans les 7 jours suivant la participation au défi",
+          "edgebar_image": "//az15297.vo.msecnd.net/images/rewards/membercenter/missions/Animated-Banners/Microsoft_giftcard_grey.png",
+          "edgebar_link_text": "Prise en main",
+          "edgebar_title": "Bienvenue dans la barre de recherche avec Microsoft Edge ! Recevez une carte cadeau gratuite après avoir effectué une recherche ici pendant 3 jours.",
+          "edgebar_type": "eligible",
+          "give_eligible": "False",
+          "icon": "//az15297.vo.msecnd.net/images/rewards/membercenter/missions/Animated-Icons/newEdgeLogo.json",
+          "image": "//az15297.vo.msecnd.net/images/rewards/membercenter/missions/278x180/Star-magenta-278x180px.png",
+          "link_text": "Prise en main",
+          "max": "0",
+          "offerid": "eligibility_EdgeBarMicrosoft_202211_ML293H",
+          "progress": "0",
+          "promotional": "0",
+          "sc_bg_image": "//az15297.vo.msecnd.net/images/rewards/membercenter/missions/Animated-Banners/Banner_Rewards_Intro_Banner_ChromeExtension_medium.png",
+          "sc_bg_large_image": "//az15297.vo.msecnd.net/images/rewards/membercenter/missions/Animated-Banners/Banner_Rewards_Intro_Banner_ChromeExtension_large.png",
+          "small_image": "//az15297.vo.msecnd.net/images/rewards/membercenter/missions/Mobile/newEdgeLogo_75x75.png",
+          "title": "Earn bonus Microsoft Rewards points",
+          "type": "urlreward"
+        },
+        "name": "FRFR_eligibility_EdgeBarMicrosoft_202211_ML293H_info",
+        "priority": -1,
+        "tags": [
+          "exclude_give_pcparent",
+          "non_global_config"
+        ]
+      },
+      {
+        "attributes": {
+          "bypass_courtesy": "false",
+          "campaign_id": "Redemption_Minecraft_330_Minecoins",
+          "complete": "False",
+          "description": "Votre travail a porté ses fruits ! Vous avez suffisamment de points pour obtenir 330 Minecoins.",
+          "destination": "https://bing.com",
+          "domain": "minecraft.net",
+          "give_eligible": "False",
+          "image_url": "//az15297.vo.msecnd.net/images/rewards/membercenter/missions/Coachmarks/minecraft2.png",
+          "impression_limit": "2",
+          "max": "2147483647",
+          "offerid": "Minecoins_Redemption_330",
+          "overrides_global_cooldown": "false",
+          "partner_id": "Minecoins",
+          "primary_cta_link": "https://rewards.bing.com/redeem/000403000093?form=CoachmarkRedemption_roblox_330giftcard&href=CoachmarkRedemption_roblox_330giftcard",
+          "primary_cta_text": "Échanger",
+          "progress": "0",
+          "promotion_cooldown": "0",
+          "search_terms": "minecraft téléchargement+minecraft minecraft+100+jours minecraft+pc minecraft+windows lanceur+minecraft minecraft+windows+10 minecraft+windows+11 code+numérique+minecraft+pc gameplay+minecraft",
+          "telemetry_id": "minecoins_330giftcard",
+          "test_promotion": "false",
+          "title": "Demander vos Minecoins",
+          "type": "edge_flyout_redeem"
+        },
+        "name": "FRFR_EdgeFlyout_Coachmark_Member_Minecoins_Redemption_330",
+        "priority": 1,
+        "tags": [
+          "non_global_config"
+        ]
+      },
+      {
+        "attributes": {
+          "bypass_courtesy": "false",
+          "campaign_id": "Redemption_Roblox_100_Robux",
+          "complete": "False",
+          "description": "Votre travail a porté ses fruits ! Vous avez suffisamment de points pour obtenir 100 Robux.",
+          "destination": "https://bing.com",
+          "domain": "roblox.com corporate.roblox.com/parents/ education.roblox.com corp.roblox.com/education/ worldbuilder.tongal.com",
+          "give_eligible": "False",
+          "image_url": "//az15297.vo.msecnd.net/images/rewards/membercenter/missions/Coachmarks/Roblox_New.jpg",
+          "impression_limit": "2",
+          "max": "2147483647",
+          "offerid": "Roblox_Redemption_100",
+          "overrides_global_cooldown": "false",
+          "partner_id": "Roblox",
+          "primary_cta_link": "https://rewards.bing.com/redeem/000403000087?form=CoachmarkRedemption_roblox_100giftcard&href=CoachmarkRedemption_roblox_100giftcard",
+          "primary_cta_text": "Échanger",
+          "progress": "0",
+          "promotion_cooldown": "0",
+          "search_terms": "robux roblox carte+cadeau+robux carte+cadeau+robux code+robux code+roblox utiliser+un+code+roblox générateur+de+robux Mondes+3D gameplay créateurs+roblox digital+world vêtements+d’avatar éditeur+d’avatar mèmes+roblox histoire+roblox articles+gratuits+roblox robux+gratuits cadeaux+robux codes+robux",
+          "telemetry_id": "roblox_100giftcard",
+          "test_promotion": "false",
+          "title": "Réclamer vos Robux",
+          "type": "edge_flyout_redeem"
+        },
+        "name": "FRFR_EdgeFlyout_Coachmark_Member_Roblox_Redemption_100",
+        "priority": 1,
+        "tags": [
+          "non_global_config"
+        ]
+      }
+    ],
+    "refresh_status_muted_until": "13348544164583419",
+    "user_engaged": true,
+    "waitlist_hidden_promo_refreshed_once": true
+  },
+  "edge_rose": {
+    "num_times_shown": 5
+  },
+  "edge_share": {
+    "enhanced_copy_paste": {
+      "nurturing": {
+        "most_recent_showing_of_paste_pref_awareness_ui": "13276564709137146",
+        "num_times_paste_pref_awareness_ui_shown": 2
+      }
+    }
+  },
+  "edge_skype": {
+    "auth": {
+      "same_account_with_edge_profile": true
+    }
+  },
+  "edge_sync_profile": {
+    "interested_types": []
+  },
+  "edge_ux_config": {
+    "assignmentcontext": "CE10Txl9SUt3CSTGGIvVtRhALXnnlBixbvgWpSl5hCs=",
+    "dataversion": "54167817",
+    "experimentvariables": {
+      "edmark": {
+        "edgeServerUX.Edhighcitex": true
+      },
+      "shopcashbackintlwildfireeu": {
+        "edgeServerUX.shopping.cashbackEUMarkets": true
+      },
+      "shopcompphc": {
+        "edgeServerUX.shopping.compositeNotificationsPriceHistoryPlusCoupons": "normal"
+      },
+      "shopexpediatest": {
+        "edgeServerUX.shopping.merchantAbTesting": "expedia.com"
+      },
+      "shopsnoozefootertf": {
+        "edgeServerUX.shopping.enableFooterForAllNotifications": true
+      },
+      "shopzeroskip": {
+        "edgeServerUX.shopping.zeroSuccessSkip": true
+      }
+    },
+    "flights": {
+      "bingbrand": "-1",
+      "cert3cf": "-1",
+      "d-thshld39": "-1",
+      "d-thshld42": "-1",
+      "d-thshld77": "-1",
+      "d-thshld78": "-1",
+      "d-thshldspcl40": "-1",
+      "edmark": "30811493",
+      "shopcashbackintlwildfireeu": "30891848",
+      "shopcompphc": "30888259",
+      "shopexpediatest": "30864983",
+      "shopsnoozefootertf": "30829828",
+      "shopzeroskip": "30807311"
+    },
+    "latestcorrelationid": "Ref A: 9BCC4EA03BC8489A87B321F8BE397D8E Ref B: PAR02EDGE0918 Ref C: 2023-12-29T19:15:55Z"
+  },
+  "edge_vpn": {
+    "available": true,
+    "enabled_globally": true,
+    "fre": {
+      "nurf_trigger": 9
+    },
+    "last_engaged_time": "13348286874210556",
+    "mode": 2
+  },
+  "edge_wallet": {
+    "eligible_site_list_last_updated_time": "13348277165700330",
+    "isSignedInProfile": 1,
+    "notification": {
+      "initialBuildTimestampDict": {},
+      "initialEngagementTimestampDict": {},
+      "initialViewTimestampDict": {},
+      "notifications": [],
+      "passwordLeakage": {
+        "effectivePeriodEnd": "2023-06-30T23:53:21.126Z",
+        "effectivePeriodStart": "2023-06-29T23:53:21.126Z",
+        "notificationPeriodEnd": "2023-06-29T23:53:21.126Z",
+        "notificationPeriodStart": "2023-06-29T23:53:21.126Z"
+      },
+      "refreshTimeInHour": 12,
+      "snoozeTimeInHour": 168
+    },
+    "show_wallet_intro_section": false
+  },
+  "enhanced_tracking_prevention": {
+    "user_pref": 2
+  },
+  "entsec_defaults_protection": {
+    "latest_hijacked_startup_ts": "1703810697"
+  },
+  "ess_kv_states": {
+    "restore_on_startup": {
+      "closed_notification": false,
+      "decrypt_success": true,
+      "key": "restore_on_startup",
+      "notification_popup_count": 0
+    },
+    "startup_urls": {
+      "closed_notification": false,
+      "decrypt_success": true,
+      "key": "startup_urls",
+      "notification_popup_count": 0
+    },
+    "template_url_data": {
+      "closed_notification": false,
+      "decrypt_success": true,
+      "key": "template_url_data",
+      "notification_popup_count": 0
+    }
+  },
+  "extensions": {
+    "alerts": {
+      "initialized": true
+    },
+    "chrome_url_overrides": {},
+    "commands": {},
+    "edge_default_installed_cws_extensions_update_frequency": 14,
+    "extension_hub_migration": true,
+    "install_signature": {
+      "expire_date": "2023-12-16",
+      "ids": [
+        "dejobinhdiimklegodgbmbifijpppopn",
+        "fbcohnmimjicjdomonkcbcpbpnhggkip",
+        "fngmhnnpilhplaeedifhccceomclgfbg",
+        "ghbmnnjooekpmoecnnnilnnbdlolhkhi",
+        "gibfelmjecbkbdkkgbgnknnfplmhdcmn",
+        "kfhgpagdjjoieckminnmigmpeclkdmjm",
+        "lbnnfjfjdijcnaakaebgcoemmlicjbnl",
+        "oijamdcnekhigloaklenicoeblnbmdli",
+        "phcaemipbgodliopfijmcmlbdhpkbndb"
+      ],
+      "invalid_ids": [],
+      "salt": "rIddA30YOytGYRI9+yQxHGHKnWfvOcUq3fZ9SPUIGaU=",
+      "signature": "QZzQ9/j/2kJHFiBw0TLSGWZA2kzo8pMudAzXUMaT/SGJcfde91mWvFMlqUcAteqFmuZwa74B5r1NCypTIayDHl5ARzhKweEPSKWrAfGzdB3TVfuVsGAWn5hPYs05Sw4SlJyxfGZaT84IxE1q8AvQMbs73dxGMxjK4jQr41K1SURBYA9uCk2G0q+kQ0QHrCUOTorHQDH4K+I8XEUr4+Aky0431nVHlnerjkIpA6BqvF5Qo3VUet1b/q6Oxg9GQdKRvKuzENmbWA7oFO4s18f13vwkSiK+j1f5Zfa/7JlT6mv+40DN8NhON00KlnGu74Z8hdCFSZym3103cIZ54vkJiA==",
+      "signature_format_version": 2,
+      "timestamp": "13339955813746839"
+    },
+    "last_chrome_version": "120.0.2210.91",
+    "microsoft_install_signature": {
+      "expire_date": "2024-02-02",
+      "ids": [
+        "hokifickgkhplphjiodbggjmoafhignh",
+        "jmjflgjpcpepeafmmgdpfkogkghcpiha",
+        "kfbdpdaobnofkbopebjglnaadopfikhh",
+        "lgcjpmgldoadgddlhigdadahfdecchcp",
+        "mmegchnodbbdfhhccbnnbalnedndcbil",
+        "odihcnhicdilemcminjlkanojghdeoam",
+        "pdffkfellgipmhklpdmokmckkkfcopbh"
+      ],
+      "invalid_ids": [],
+      "salt": "wYJmy32WnhhgqEYCSVTlwxFEGQEeg9ArwNq6HfFccTU=",
+      "signature": "cRIyTZfLgidLKHj7uEO9ysc13WLlk4lvnPSiKTgXBrU8Nrm5Un8UrB9vpZUkvB1ONkWtHVx7YoTEszbRQYs7fXAYibSE06wsLaE9+909swwrYEwKdIh5jyj/VuOuX2a4UKR/JVomqxVR+lqRAHLQPhmWNp2JgtlNijzCvQQ7iKbCzXab6XTRYlFrqJRzS5NLYSKj5DgzwdaF3P0Zl2O2y7jREZF3V35pdBFiaxGEGPx1zgfXo3ALm7O6dyoxhSmB2qojjJpNtnE5lsYJotwQjjCgm3AlIpOIecvvVIA6B5b6W1sKVgl19pHP6FNLH7m0FlHUCDWaLp4RPuxn3yuKFA==",
+      "signature_format_version": 2,
+      "timestamp": "13344095151411053"
+    },
+    "pdf_upsell_triggered": false,
+    "pinned_extension_migration": true,
+    "pinned_extensions": [
+      "pdffkfellgipmhklpdmokmckkkfcopbh",
+      "lgcjpmgldoadgddlhigdadahfdecchcp",
+      "odihcnhicdilemcminjlkanojghdeoam"
+    ],
+    "toolbar": [
+      "pdffkfellgipmhklpdmokmckkkfcopbh",
+      "lgcjpmgldoadgddlhigdadahfdecchcp"
+    ],
+    "ui": {
+      "allow_chrome_webstore": true,
+      "developer_mode": true
+    }
+  },
+  "family_safety": {
+    "activity_reporting_enabled": false,
+    "role": 1,
+    "web_filtering_enabled": false
+  },
+  "find_options_button_status_set_to_collapsed": true,
+  "followable_web": {
+    "notification": {
+      "last_check_timestamp": "13348334677229808"
+    },
+    "user_usage": {
+      "used": true
+    }
+  },
+  "fsd": {
+    "retention_policy_last_version": 120
+  },
+  "funsec_app_defaults": {
+    "campaign_cool_down_records": []
+  },
+  "google": {
+    "services": {
+      "consented_to_sync": true
+    }
+  },
+  "history": {
+    "thumbnail_ui_visibility": true,
+    "thumbnail_visibility_per_usage": true
+  },
+  "history_clusters": {
+    "all_cache": {
+      "all_keywords": {},
+      "all_timestamp": "0"
+    },
+    "short_cache": {
+      "short_keywords": {},
+      "short_timestamp": "0"
+    }
+  },
+  "history_hub": {
+    "active_pivot_tab": "history-pivot"
+  },
+  "instrumentation": {
+    "ntp": {
+      "layout_mode": "onLayoutModeSelectChange;3",
+      "news_feed_display": "onContentSelectChange;off"
+    },
+    "show_home_button": "extensions::PrefsUtil::SetPref;true"
+  },
+  "intl": {
+    "accept_languages": "en-GB,en,en-US",
+    "selected_languages": "en-GB,en,en-US"
+  },
+  "invalidation": {
+    "channel_id": "CgdEZWZhdWx0EAEY19ypi_r_____AQ user_account_sync"
+  },
+  "language_dwell_time_average": {
+    "ar": 3.0,
+    "bg": 11.0,
+    "bn": 17.0,
+    "de": 25.88582677165355,
+    "el": 26.5,
+    "en": 128.8952634967342,
+    "es": 16.01492537313433,
+    "eu": 17.0,
+    "fi": 5.0,
+    "fr": 241.20571129463792,
+    "hi": 10.0,
+    "hu": 8.75,
+    "id": 37.5,
+    "it": 12.096774193548386,
+    "ja": 944.2,
+    "ko": 38.2,
+    "nl": 15.863636363636363,
+    "pl": 8.4,
+    "pt": 662.4078947368421,
+    "ru": 11.564999999999994,
+    "sk": 221.0,
+    "sv": 14.0,
+    "uk": 3.0,
+    "und": 38.23999999999999,
+    "vi": 9.0,
+    "zh-CN": 9.0
+  },
+  "language_model_counters": {
+    "en": 602,
+    "fr": 212,
+    "pt": 1
+  },
+  "language_translated_count": {
+    "de": 5,
+    "en": 36,
+    "es": 1,
+    "fr": 4,
+    "hu": 1,
+    "it": 13,
+    "ru": 202
+  },
+  "language_usage_count": {
+    "ar": 2,
+    "bg": 1,
+    "bn": 1,
+    "de": 254,
+    "el": 2,
+    "en": 54365,
+    "es": 67,
+    "eu": 1,
+    "fi": 1,
+    "fr": 34388,
+    "hi": 1,
+    "hu": 4,
+    "id": 2,
+    "it": 31,
+    "ja": 5,
+    "ko": 5,
+    "nl": 22,
+    "pl": 15,
+    "pt": 76,
+    "ru": 200,
+    "sk": 2,
+    "sv": 1,
+    "uk": 1,
+    "und": 25,
+    "vi": 1,
+    "zh-CN": 5
+  },
+  "local_browser_data_share": {
+    "index_last_cleaned_time": "13348329354861499"
+  },
+  "media": {
+    "default_audio_capture_device": "{0.0.1.00000000}.{ba46f2c9-ac8e-461d-a264-da3e00ed3bc3}",
+    "device_id_salt": "0A515EF74F3C2CA28DC3B2A7FE3413D6",
+    "engagement": {
+      "schema_version": 5
+    }
+  },
+  "media_router": {
+    "receiver_id_hash_token": "45VMPNRu/PGPAF+EcA185y4g3XB1eatQXAj/0qckNo2dszq+yKJMpH8GGAuXIqVlkAR3rSJbSogL4L5h/1h9qA=="
+  },
+  "muid": {
+    "last_sync": "13348284966492312",
+    "values_seen": [
+      "38278E1F0099666E21FC9D2101356702"
+    ]
+  },
+  "ntp": {
+    "background_image": {
+      "provider": "NoBackground",
+      "userSelected": true
+    },
+    "background_image_type": "off",
+    "dhp_last_creation_time": "13348276208852678",
+    "enable_prerender": false,
+    "hide_default_top_sites": false,
+    "layout_mode": 3,
+    "news_feed_display": "off",
+    "ntp_last_creation_time": "13291427731069209",
+    "ntp_last_creation_time_v2": "13348351765637792",
+    "num_personal_suggestions": 19,
+    "prerender_contents_height": 924,
+    "prerender_contents_width": 1872,
+    "quick_links_options": 0,
+    "record_user_choices": [
+      {
+        "setting": "layout_mode",
+        "source": "ntp",
+        "timestamp": 1.703878119587e+12,
+        "value": 3
+      },
+      {
+        "setting": "left_rail",
+        "source": "ntp",
+        "timestamp": 1.669142799149e+12,
+        "value": "true"
+      },
+      {
+        "setting": "quick_links_options",
+        "source": "ntp",
+        "timestamp": 1.66914281512e+12,
+        "value": "off"
+      },
+      {
+        "setting": "coachmarks",
+        "source": "ntp",
+        "timestamp": 1.684942815154e+12,
+        "value": [
+          {
+            "coachMarkKey": "informationalSwitchOffer",
+            "latestShownTimestamp": 1.684942815154e+12,
+            "maxShowTimes": 2,
+            "repeatHours": 168,
+            "showTimes": 2
+          }
+        ]
+      },
+      {
+        "setting": "search_history",
+        "source": "ntp",
+        "timestamp": 1.686972430244e+12,
+        "value": false
+      },
+      {
+        "setting": "ntp_tips",
+        "source": "ntp",
+        "timestamp": 1.69343842322e+12,
+        "value": false
+      },
+      {
+        "setting": "tscollapsed",
+        "source": "tscollapsed_to_off",
+        "timestamp": 1.696891046524e+12,
+        "value": 0
+      },
+      {
+        "setting": "sptmarket",
+        "source": "ntp",
+        "timestamp": 1.703701222737e+12,
+        "value": "en-GB||fr|fr-fr|fr-fr|fr||RefA=19A83A0492DB484F947C6B2725CCE946.RefC=2023-06-28T17:15:31Z"
+      }
+    ],
+    "selected_feed_pivot": "gaming",
+    "show_greeting": true,
+    "show_image_of_day": false,
+    "show_settings": false,
+    "show_top_sites": true,
+    "user_nurturing": [
+      {
+        "key": "campaigns",
+        "value": [
+          {
+            "creatives": [
+              {
+                "content": {
+                  "LANDSCAPE": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW198vb?ver=e025",
+                  "PORTRAIT": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW190Dd?ver=5493",
+                  "copyright": "© Janoka82 / iStock / Getty Images",
+                  "cta": "https://www.bing.com/search?q=Alpe+di+Siusi+-+Seiser+Alm+with+Sciliar+-+Schlern+mountain+group&form=M0001G&OCID=M0001G",
+                  "cta_type": "nav-newtab",
+                  "hs": [
+                    {
+                      "cta": "https://www.microsoft.com/microsoft-365/free-office-online-for-the-web?ocid=cmm8x1kza1q&form=M0004C",
+                      "cta_type": "nav-newtab",
+                      "hs": "2",
+                      "icon": "Search",
+                      "landscape": {
+                        "x_percent": "0.4",
+                        "y_percent": "0.47"
+                      },
+                      "portrait": {
+                        "x_percent": "0.4",
+                        "y_percent": "0.47"
+                      },
+                      "text": "Commencez dès aujourd’hui",
+                      "title": "Avec Microsoft PowerPoint, créez des présentations soignées et captivantes."
+                    }
+                  ],
+                  "title": "Dolomites, Sud-Tyrol, Italie",
+                  "update_period": "86400"
+                },
+                "creativeId": "128000000004387409",
+                "creativeName": "MSNAnaheimNewsNTPImageHotspots",
+                "creativeNamespace": "MSNAnaheimNewsNTPImages",
+                "telemetry": {
+                  "actionUrl": "https://ris.api.iris.microsoft.com/v1/a/{ACTION}?PG=IRIS000001.0000000244&UNID=88000244&CID=128000000004387409&PID=425882904&TargetID=700466144&REQASID=E69D98BFECD447BDAAA9DD74CD3E165D&ASID=c50ad670832b42339ef6a2a3b9acdbbc&REQT=20231228T204207&UIT=E-&ID=-4340571643682004131&region=FR&SLOT=1&RV=&RS=&ER_AC=&EDGEID=-4340571643682004131&DS_EVTID=c50ad670832b42339ef6a2a3b9acdbbc&WFIDS=&DEVOSVER=10.0.22631.2861&APP=&ARCRAS=&CLR=ESDK&lang=&oem=&devFam=&ossku=&cmdVer=&mo=&cap=&bSrc=i.m",
+                  "impressionUrl": "https://arc.msn.com/v3/Delivery/Events/Impression?PID=425882904&TID=700466144&CID=128000000004387409&BID=1275170965&PG=IRIS000001.0000000244&TPID=425882904&REQASID=E69D98BFECD447BDAAA9DD74CD3E165D&ASID=c50ad670832b42339ef6a2a3b9acdbbc&SLOT=1&REQT=20231228T204207&MA_Score=2&EDGEID=-4340571643682004131&DS_EVTID=c50ad670832b42339ef6a2a3b9acdbbc&BCNT=1&PG=IRIS000001.0000000244&UNID=88000244&MAP_TID=CA4357CB-2CA9-438D-9EB2-4C0B8751C9F8&NCT=1&ASID=E69D98BFECD447BDAAA9DD74CD3E165D&REQASID=E69D98BFECD447BDAAA9DD74CD3E165D&ARC=1&EMS=1&LOCALE=FR-FR&COUNTRY=FR&HTD=-1&LANG=1036&DEVLANG=FR&CIP=86.242.253.246&ID=-4340571643682004131&OPTOUTSTATE=256&HTTPS=1&DEVOSVER=10.0.22631.2861&DEVOSMAJ=10&DEVOSMIN=0&DEVOSBLD=22631&DEVOSMINBLD=2861&ABUILD=120.0.6099.130&AMAJOR=120&AMINOR=0&ABLD=6099&APATCH=130&MARKETBASEDCOUNTRY=FR&CLR=ESDK&CFMT=&H=0&W=0&FESVER=1.3&ACHANNEL=4&ADEFAB=13&OPSYS=WIN10&UITHEME=DARK&PAGECONFIG=513&CHNL=CFD&UIT=E"
+                }
+              }
+            ],
+            "currentCreativeId": "128000000004387409",
+            "errors": [],
+            "imageInfo": {
+              "dislikedCreativeCountCurrentPeriod": 0,
+              "dislikedCreatives": []
+            },
+            "lastUpdatedMarket": "fr-fr",
+            "lastUpdatedTime": 1.703796126507e+12,
+            "placement": "88000244"
+          },
+          {
+            "creatives": [
+              {
+                "content": {
+                  "cm": [
+                    {
+                      "actionPauseInMs": "1000",
+                      "cta": [
+                        {
+                          "ctaBehavior": "Launch",
+                          "ctaText": "Essayer le widget Web",
+                          "ctaType": "launchAndDefaultWebWidget"
+                        },
+                        {
+                          "ctaBehavior": "Close",
+                          "ctaText": "Peut-être plus tard"
+                        }
+                      ],
+                      "displayDismissX": "true",
+                      "displayType": "Large",
+                      "headline": "Présentation du widget Web de Microsoft Edge",
+                      "leadText": "Effectuez des recherches sur le Web, obtenez les dernières actualités et plus encore, directement depuis votre bureau",
+                      "mainImage": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWyTKW?ver=0599",
+                      "name": "Launch and add Web widget",
+                      "pointerPlacement": "Opposite",
+                      "position": "Below",
+                      "targetElement": "SettingsButton",
+                      "timeoutMilliseconds": "100000"
+                    }
+                  ],
+                  "ecsFeatureFlags": "canLaunchWebWidget,canAutoStartWebWidget",
+                  "frequency": "1",
+                  "frequencyInterval": "28",
+                  "isEcsExperiment": "true"
+                },
+                "creativeId": "128000000002621629",
+                "creativeName": "Microsoft News",
+                "creativeNamespace": "Coachmark",
+                "storageInfo": {
+                  "lastAddedTime": 1.627841167459e+12,
+                  "useCount": 0,
+                  "useTime": 0
+                },
+                "telemetry": {
+                  "actionUrl": "https://ris.api.iris.microsoft.com/v1/a/{ACTION}?PG=IRIS000001.0000000308&UNID=88000308&CID=128000000002621629&PID=425154056&TargetID=700357190&REQASID=0D7CC89BE16346B8E9114B8CC4FED104&ASID=211f1a49492743d5bd3c7b6092b5a6a9&REQT=20210801T180608&UIT=A-&ID=729EDB408F7C82264239F0DEFFFFFFFF&region=FR&SLOT=1&RV=&RS=&ER_AC=&ANID=729EDB408F7C82264239F0DEFFFFFFFF&EDGEID=8121fb85-e045-4902-8cd8-8703c2c33008&DS_EVTID=211f1a49492743d5bd3c7b6092b5a6a9&WFIDS=&DEVOSVER=10.0.19042.1110&APP=&lang=&oem=&devFam=&ossku=&cmdVer=&mo=&cap=&bSrc=i.m",
+                  "impressionUrl": "https://arc.msn.com/v3/Delivery/Events/Impression?PID=425154056&TID=700357190&CID=128000000002621629&BID=1969993888&PG=IRIS000001.0000000308&TPID=425154056&REQASID=0D7CC89BE16346B8E9114B8CC4FED104&ASID=211f1a49492743d5bd3c7b6092b5a6a9&SLOT=1&REQT=20210801T180608&MA_Score=2&ANID=729EDB408F7C82264239F0DEFFFFFFFF&EDGEID=8121fb85-e045-4902-8cd8-8703c2c33008&DS_EVTID=211f1a49492743d5bd3c7b6092b5a6a9&BCNT=1&PG=IRIS000001.0000000308&UNID=88000308&MAP_TID=6E21616A-A5C9-4CE8-98EC-30D0324AAE9B&NCT=1&ASID=53C36A37A0914DDBA3C25ABFCBA57F09&REQASID=0D7CC89BE16346B8E9114B8CC4FED104&ARC=1&EMS=1&LOCALE=FR-FR&COUNTRY=FR&HTD=-1&LANG=1036&DEVLANG=FR&CIP=86.195.16.190&ID=729EDB408F7C82264239F0DEFFFFFFFF&OPTOUTSTATE=256&HTTPS=1&DEVOSVER=10.0.19042.1110&DEVOSMAJ=10&DEVOSMIN=0&DEVOSBLD=19042&DEVOSMINBLD=1110&ABUILD=92.0.4515.107&AMAJOR=92&AMINOR=0&ABLD=4515&APATCH=107&MARKETBASEDCOUNTRY=FR&CLR=ESDK&CFMT=&H=0&W=0&FESVER=1.3&ACHANNEL=4&ADEFAB=13&OPSYS=WIN10&UITHEME=DARK&ISSIGNEDIN=0&MSN_CANVAS=3&ISMOBILE=0&BROWSER=6&CHNL=CFD&UIT=A"
+                }
+              },
+              {
+                "content": {
+                  "cm": [
+                    {
+                      "actionPauseInMs": "1000",
+                      "cta": [
+                        {
+                          "ctaBehavior": "Navigate",
+                          "ctaText": "Télécharger maintenant",
+                          "destinationurl": "https://aka.ms/NTP_Coachmark_new"
+                        },
+                        {
+                          "ctaBehavior": "Close",
+                          "ctaText": "Peut-être plus tard"
+                        }
+                      ],
+                      "disablePointer": "true",
+                      "displayDismissX": "true",
+                      "displayType": "Medium",
+                      "headline": "Téléchargez la nouvelle application Microsoft Start",
+                      "leadText": "Tout comme sur votre PC, des actualités personnalisées et fiables, ainsi que des jeux, la météo, etc., le tout dans une seule application",
+                      "mainImage": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWO3xK?ver=098a",
+                      "name": "Microsoft Start App NTP INTL Coachmark",
+                      "nonTargetPlacement": "BottomEnd",
+                      "timeoutMilliseconds": "100000"
+                    }
+                  ],
+                  "frequency": "1",
+                  "frequencyInterval": "14",
+                  "isEcsExperiment": "false"
+                },
+                "creativeId": "128000000003039089",
+                "creativeName": "Microsoft News",
+                "creativeNamespace": "Coachmark",
+                "storageInfo": {
+                  "lastAddedTime": 1.63624328023e+12,
+                  "useCount": 2,
+                  "useTime": 1.63624328023e+12
+                },
+                "telemetry": {
+                  "actionUrl": "https://ris.api.iris.microsoft.com/v1/a/{ACTION}?PG=IRIS000001.0000000308&UNID=88000308&CID=128000000003039089&PID=425423700&TargetID=700372297&REQASID=3F9AB450D8BE443BCBEE45BB88A5123E&ASID=89b45435cf9847fe8ae72850fdeba7ea&REQT=20211023T005749&UIT=A-&ID=43529EB23AC8ECA592A19611FFFFFFFF&region=FR&SLOT=1&RV=&RS=&ER_AC=&ANID=43529EB23AC8ECA592A19611FFFFFFFF&EDGEID=-4340571643682004131&DS_EVTID=89b45435cf9847fe8ae72850fdeba7ea&WFIDS=&DEVOSVER=10.0.22000.258&APP=&lang=&oem=&devFam=&ossku=&cmdVer=&mo=&cap=&bSrc=i.m",
+                  "impressionUrl": "https://arc.msn.com/v3/Delivery/Events/Impression?PID=425423700&TID=700372297&CID=128000000003039089&BID=1369269225&PG=IRIS000001.0000000308&TPID=425423700&REQASID=3F9AB450D8BE443BCBEE45BB88A5123E&ASID=89b45435cf9847fe8ae72850fdeba7ea&SLOT=1&REQT=20211023T005749&MA_Score=2&ANID=43529EB23AC8ECA592A19611FFFFFFFF&EDGEID=-4340571643682004131&DS_EVTID=89b45435cf9847fe8ae72850fdeba7ea&BCNT=1&PG=IRIS000001.0000000308&UNID=88000308&MAP_TID=58DBAA01-185F-40D8-A8C8-1634519161D4&NCT=1&ASID=8B71D856785D4B2E8B100C611EE2CE4E&REQASID=3F9AB450D8BE443BCBEE45BB88A5123E&ARC=1&EMS=1&LOCALE=FR-FR&COUNTRY=FR&HTD=-1&LANG=1036&DEVLANG=FR&CIP=82.124.169.91&ID=43529EB23AC8ECA592A19611FFFFFFFF&OPTOUTSTATE=256&HTTPS=1&DEVOSVER=10.0.22000.258&DEVOSMAJ=10&DEVOSMIN=0&DEVOSBLD=22000&DEVOSMINBLD=258&ABUILD=94.0.4606.81&AMAJOR=94&AMINOR=0&ABLD=4606&APATCH=81&MARKETBASEDCOUNTRY=FR&CLR=ESDK&CFMT=&H=0&W=0&FESVER=1.3&ACHANNEL=4&ADEFAB=13&OPSYS=WIN10&UITHEME=DARK&PAGECONFIG=43&ISSIGNEDIN=0&MSN_CANVAS=3&ISMOBILE=0&BROWSER=6&CHNL=CFD&UIT=A"
+                }
+              },
+              {
+                "content": {
+                  "cm": [
+                    {
+                      "actionPauseInMs": "1000",
+                      "cta": [
+                        {
+                          "ctaBehavior": "Navigate",
+                          "ctaText": "Télécharger l'application",
+                          "destinationurl": "https://go.microsoft.com/fwlink/?linkid=2137506&pc=W089"
+                        },
+                        {
+                          "ctaBehavior": "Close",
+                          "ctaText": "Non, merci"
+                        }
+                      ],
+                      "disablePointer": "true",
+                      "displayDismissX": "true",
+                      "displayType": "Large",
+                      "headline": "Donnez vie à votre bureau",
+                      "leadImage": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWNiUr?ver=e656",
+                      "leadText": "Définissez l'image d'arrière-plan de votre bureau sur l'image du jour de l'application Bing Wallpaper",
+                      "name": "Bing Wallpaper NTP INTL Coachmark",
+                      "nonTargetPlacement": "BottomEnd",
+                      "timeoutMilliseconds": "100000"
+                    }
+                  ],
+                  "frequency": "1",
+                  "frequencyInterval": "14",
+                  "isEcsExperiment": "false"
+                },
+                "creativeId": "128000000003032789",
+                "creativeName": "Microsoft News",
+                "creativeNamespace": "Coachmark",
+                "storageInfo": {
+                  "lastAddedTime": 1.635037787023e+12,
+                  "useCount": 1,
+                  "useTime": 1.635037787023e+12
+                },
+                "telemetry": {
+                  "actionUrl": "https://ris.api.iris.microsoft.com/v1/a/{ACTION}?PG=IRIS000001.0000000308&UNID=88000308&CID=128000000003032789&PID=425423567&TargetID=700372277&REQASID=21F9777B10F4478F9BB5AB861F2EA802&ASID=fa4cb4edbcb840e2ae4a1c4dffd8dd91&REQT=20211024T010947&UIT=A-&ID=43529EB23AC8ECA592A19611FFFFFFFF&region=FR&SLOT=1&RV=&RS=&ER_AC=&ANID=43529EB23AC8ECA592A19611FFFFFFFF&EDGEID=-4340571643682004131&DS_EVTID=fa4cb4edbcb840e2ae4a1c4dffd8dd91&WFIDS=&DEVOSVER=10.0.22000.258&APP=&lang=&oem=&devFam=&ossku=&cmdVer=&mo=&cap=&bSrc=i.m",
+                  "impressionUrl": "https://arc.msn.com/v3/Delivery/Events/Impression?PID=425423567&TID=700372277&CID=128000000003032789&BID=273466084&PG=IRIS000001.0000000308&TPID=425423567&REQASID=21F9777B10F4478F9BB5AB861F2EA802&ASID=fa4cb4edbcb840e2ae4a1c4dffd8dd91&SLOT=1&REQT=20211024T010947&MA_Score=2&ANID=43529EB23AC8ECA592A19611FFFFFFFF&EDGEID=-4340571643682004131&DS_EVTID=fa4cb4edbcb840e2ae4a1c4dffd8dd91&BCNT=1&PG=IRIS000001.0000000308&UNID=88000308&MAP_TID=494447BB-6DE4-4F88-A38C-53FDABB827B7&NCT=1&ASID=600EC13A6C504FBEBAAF917130B4EA6C&REQASID=21F9777B10F4478F9BB5AB861F2EA802&ARC=1&EMS=1&LOCALE=FR-FR&COUNTRY=FR&HTD=-1&LANG=1036&DEVLANG=FR&CIP=82.124.169.91&ID=43529EB23AC8ECA592A19611FFFFFFFF&OPTOUTSTATE=256&HTTPS=1&DEVOSVER=10.0.22000.258&DEVOSMAJ=10&DEVOSMIN=0&DEVOSBLD=22000&DEVOSMINBLD=258&ABUILD=94.0.4606.81&AMAJOR=94&AMINOR=0&ABLD=4606&APATCH=81&MARKETBASEDCOUNTRY=FR&CLR=ESDK&CFMT=&H=0&W=0&FESVER=1.3&ACHANNEL=4&ADEFAB=13&OPSYS=WIN10&UITHEME=DARK&PAGECONFIG=43&ISSIGNEDIN=0&MSN_CANVAS=3&ISMOBILE=0&BROWSER=6&CHNL=CFD&UIT=A"
+                }
+              },
+              {
+                "content": {
+                  "cm": [
+                    {
+                      "actionPauseInMs": "1000",
+                      "cta": [
+                        {
+                          "ctaBehavior": "Navigate",
+                          "ctaText": "Essayer la barre Edge",
+                          "destinationurl": "https://ntp.msn.com/web-widget?ocid=NTPWWU"
+                        },
+                        {
+                          "ctaBehavior": "Close",
+                          "ctaText": "Plus tard peut-être"
+                        }
+                      ],
+                      "displayDismissX": "true",
+                      "displayType": "Large",
+                      "headline": "Présentation de la barre Edge à partir de Microsoft Edge",
+                      "leadText": "Obtenez sans effort les informations dont vous avez besoin. Revenez en toute transparence à ce que vous faisiez.",
+                      "mainImage": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWPkw7?ver=adc6",
+                      "name": "Launch and add Edge bar",
+                      "pointerPlacement": "Opposite",
+                      "position": "Below",
+                      "targetElement": "SettingsButton",
+                      "timeoutMilliseconds": "100000"
+                    }
+                  ],
+                  "ecsFeatureFlags": "canLaunchWebWidget,canAutoStartWebWidget",
+                  "frequency": "1",
+                  "frequencyInterval": "28",
+                  "isEcsExperiment": "true"
+                },
+                "creativeId": "128000000003105729",
+                "creativeName": "Microsoft News",
+                "creativeNamespace": "Coachmark",
+                "storageInfo": {
+                  "lastAddedTime": 1.637794710696e+12,
+                  "useCount": 0,
+                  "useTime": 0
+                },
+                "telemetry": {
+                  "actionUrl": "https://ris.api.iris.microsoft.com/v1/a/{ACTION}?PG=IRIS000001.0000000308&UNID=88000308&CID=128000000003105729&PID=425468433&TargetID=700375233&REQASID=2029036BC8A248B3E8CD31F29A2404E8&ASID=e91bff9a8b5c4998a3bfd967e0b3d1cf&REQT=20211124T225830&UIT=A-&ID=2E99B74672B62437A7BA8FCBFFFFFFFF&region=FR&SLOT=1&RV=&RS=&ER_AC=&ANID=2E99B74672B62437A7BA8FCBFFFFFFFF&EDGEID=-4340571643682004131&DS_EVTID=e91bff9a8b5c4998a3bfd967e0b3d1cf&WFIDS=&DEVOSVER=10.0.22000.318&APP=&lang=&oem=&devFam=&ossku=&cmdVer=&mo=&cap=&bSrc=i.m",
+                  "impressionUrl": "https://arc.msn.com/v3/Delivery/Events/Impression?PID=425468433&TID=700375233&CID=128000000003105729&BID=822997970&PG=IRIS000001.0000000308&TPID=425468433&REQASID=2029036BC8A248B3E8CD31F29A2404E8&ASID=e91bff9a8b5c4998a3bfd967e0b3d1cf&SLOT=1&REQT=20211124T225830&MA_Score=2&ANID=2E99B74672B62437A7BA8FCBFFFFFFFF&EDGEID=-4340571643682004131&DS_EVTID=e91bff9a8b5c4998a3bfd967e0b3d1cf&BCNT=1&PG=IRIS000001.0000000308&UNID=88000308&MAP_TID=A41CC760-7B51-4580-AD70-1C92BCF65C31&NCT=1&ASID=E7C95E7AE1DE4466911FC22DD457CEC9&REQASID=2029036BC8A248B3E8CD31F29A2404E8&ARC=1&EMS=1&LOCALE=FR-FR&COUNTRY=FR&HTD=-1&LANG=1036&DEVLANG=FR&CIP=82.124.240.6&ID=2E99B74672B62437A7BA8FCBFFFFFFFF&OPTOUTSTATE=256&ADSOPT=0&HTTPS=1&DEVOSVER=10.0.22000.318&DEVOSMAJ=10&DEVOSMIN=0&DEVOSBLD=22000&DEVOSMINBLD=318&ABUILD=96.0.4664.45&AMAJOR=96&AMINOR=0&ABLD=4664&APATCH=45&MARKETBASEDCOUNTRY=FR&CLR=ESDK&CFMT=&H=0&W=0&FESVER=1.3&ACHANNEL=4&ADEFAB=13&OPSYS=WIN10&UITHEME=DARK&PAGECONFIG=43&ISSIGNEDIN=0&MSN_CANVAS=3&ISMOBILE=0&BROWSER=6&CHNL=CFD&UIT=A"
+                }
+              }
+            ],
+            "errors": [
+              {
+                "errors": [
+                  {
+                    "code": 2040,
+                    "msg": "Demand source returns error (Name: GN_ps, Error: No eligible content.)."
+                  }
+                ],
+                "placement": "88000308"
+              }
+            ],
+            "lastUpdatedMarket": "fr-fr",
+            "lastUpdatedTime": 1.7037961264e+12,
+            "placement": "88000308"
+          },
+          {
+            "creatives": [],
+            "errors": [
+              {
+                "errors": [
+                  {
+                    "code": 2040,
+                    "msg": "Demand source returns error (Name: GN_ps, Error: No eligible content.)."
+                  }
+                ],
+                "placement": "10837393"
+              }
+            ],
+            "lastUpdatedMarket": "fr-fr",
+            "lastUpdatedTime": 1.7037961264e+12,
+            "placement": "10837393"
+          }
+        ]
+      },
+      {
+        "key": "wpo_lyt_tmpl",
+        "value": []
+      },
+      {
+        "key": "feed_layout",
+        "value": {
+          "source": "wpo",
+          "targettedCount": 1,
+          "time": 1.667054623031e+12,
+          "type": "multi",
+          "version": 1.1
+        }
+      },
+      {
+        "key": "background_setting_preferences",
+        "value": {
+          "changeBackgroundDaily": true,
+          "imageDislikes": [],
+          "imageLikes": [],
+          "includeVideoBackgroundsInRotation": true,
+          "selectedVideoSetting": "balanced",
+          "showImageSpotlightText": true,
+          "videoDislikes": [],
+          "videoLikes": []
+        }
+      },
+      {
+        "key": "test-bing-nudge-enabled",
+        "value": false
+      },
+      {
+        "key": "viewport",
+        "value": {
+          "height": 1232,
+          "width": 2496
+        }
+      },
+      {
+        "key": "msRewardsCampaign",
+        "value": [
+          {
+            "count": 1,
+            "name": "auto_flyout",
+            "source": "ntp",
+            "time": 1.687295428291e+12
+          }
+        ]
+      },
+      {
+        "key": "nurturingUid",
+        "value": "1693438297409632"
+      },
+      {
+        "key": "tscollapsed_to_off",
+        "value": {
+          "quickLinkSettingsChanged": false,
+          "selectedQuickLinksDisplaySetting": "off"
+        }
+      },
+      {
+        "key": "wpo_nx"
+      },
+      {
+        "key": "layoutPromotion"
+      },
+      {
+        "key": "layoutHistory",
+        "value": {
+          "userLayoutHistory": {
+            "changeKey": "feeds",
+            "from": 2,
+            "time": 1.703878230289e+12,
+            "to": 4
+          }
+        }
+      }
+    ]
+  },
+  "ntp_home_button_address_bar_partner_code": "ESBXHB",
+  "ntp_home_button_partner_code": "ENTPHB",
+  "ntp_startup_address_bar_partner_code": "ESBXSP",
+  "ntp_startup_partner_code": "ENTPSP",
+  "nurturing": {
+    "default_settings_reverted": {
+      "StandardLaunch": {
+        "dse_revert_count": 1
+      },
+      "latest_dse_campaign": ""
+    },
+    "has_engaged_with_account_level_sync_consent": true,
+    "launched_on_startup": true,
+    "recommended_settings_variants": -1
+  },
+  "omnibox": {
+    "pedal": {
+      "cachedresults": {
+        "bing_chat_translate_queries": 3
+      }
+    }
+  },
+  "open_save_as_awareness_ui": {
+    "dismissed": true,
+    "num_times_shelf_opened_since_shown": 0,
+    "num_times_shown": 3
+  },
+  "optimization_guide": {
+    "hintsfetcher": {
+      "hosts_successfully_fetched": {}
+    },
+    "previously_registered_optimization_types": {
+      "ABOUT_THIS_SITE": true,
+      "HISTORY_CLUSTERS": true,
+      "IBAN_AUTOFILL_BLOCKED": true
+    },
+    "store_file_paths_to_delete": {}
+  },
+  "partition": {
+    "per_host_zoom_levels": {
+      "x": {
+        "3hentai.net": {
+          "last_modified": "13289014678065446",
+          "zoom_level": -1.2239010857415447
+        },
+        "docs.google.com": {
+          "last_modified": "13345080396755566",
+          "zoom_level": -2.2239010857415455
+        },
+        "drive.google.com": {
+          "last_modified": "13285245052264597",
+          "zoom_level": 0.5227586988632231
+        },
+        "e-hentai.org": {
+          "last_modified": "13313689383856245",
+          "zoom_level": -3.8017840169239308
+        },
+        "ffxiv.consolegameswiki.com": {
+          "last_modified": "13274675999359170",
+          "zoom_level": -0.5778829311823857
+        },
+        "file:///C:/Users/caban/OneDrive/Projects/Filio%20-%20The%20Card%20Game/Vichy/yellow-gingham-pattern-vector-lg.svg": {
+          "last_modified": "13298102854198315",
+          "zoom_level": -3.8017840169239308
+        },
+        "file:///J:/Download/My%20account%20info/access.html": {
+          "last_modified": "13291674688312330",
+          "zoom_level": -1.2239010857415447
+        },
+        "filecrypt.co": {
+          "last_modified": "13339900529850308",
+          "zoom_level": 3.069389038663465
+        },
+        "fr.pcpartpicker.com": {
+          "last_modified": "13284347740904542",
+          "zoom_level": -1.2239010857415447
+        },
+        "gamerpillar.com": {
+          "last_modified": "13339281240583876",
+          "zoom_level": 0.5227586988632231
+        },
+        "hentairead.com": {
+          "last_modified": "13335564229600528",
+          "zoom_level": -3.8017840169239308
+        },
+        "imgsrc.ru": {
+          "last_modified": "13324614680590145",
+          "zoom_level": 1.2239010857415449
+        },
+        "m-hentai.net": {
+          "last_modified": "13300590772595463",
+          "zoom_level": -2.2239010857415455
+        },
+        "mail.yahoo.com": {
+          "last_modified": "13281070346788126",
+          "zoom_level": -0.5778829311823857
+        },
+        "maps.seaofthieves.rarethief.com": {
+          "last_modified": "13282092812605017",
+          "zoom_level": -0.5778829311823857
+        },
+        "ntp.msn.com": {
+          "last_modified": "13296902037433738",
+          "zoom_level": -1.5778829311823859
+        },
+        "tarkovtracker.io": {
+          "last_modified": "13319524423261936",
+          "zoom_level": -1.5778829311823859
+        },
+        "templeduswing.com": {
+          "last_modified": "13343345710953436",
+          "zoom_level": 2.223901085741545
+        },
+        "tickets.rugbyworldcup.com": {
+          "last_modified": "13339955711835939",
+          "zoom_level": -1.5778829311823859
+        },
+        "upload.wikimedia.org": {
+          "last_modified": "13307981261430999",
+          "zoom_level": -7.6035680338478615
+        },
+        "vipr.im": {
+          "last_modified": "13341721847399516",
+          "zoom_level": 0.5227586988632231
+        },
+        "wesportfr.com": {
+          "last_modified": "13339096512122609",
+          "zoom_level": 0.5227586988632231
+        },
+        "www.facebook.com": {
+          "last_modified": "13321135403343209",
+          "zoom_level": -1.5778829311823859
+        },
+        "www.google.com": {
+          "last_modified": "13325204731483705",
+          "zoom_level": 1.2239010857415449
+        },
+        "www.japan-expo-paris.com": {
+          "last_modified": "13333636361199626",
+          "zoom_level": -1.5778829311823859
+        },
+        "www.meyclub.com": {
+          "last_modified": "13307234562354839",
+          "zoom_level": -1.2239010857415447
+        },
+        "www.myfonts.com": {
+          "last_modified": "13297822342404869",
+          "zoom_level": -0.5778829311823857
+        },
+        "www.onenagros.org": {
+          "last_modified": "13273366435536267",
+          "zoom_level": 2.223901085741545
+        },
+        "www.philibertnet.com": {
+          "last_modified": "13323147007164044",
+          "zoom_level": -0.5778829311823857
+        },
+        "www.priceline.com": {
+          "last_modified": "13308861210308190",
+          "zoom_level": -0.5778829311823857
+        },
+        "www.quickstudio.com": {
+          "last_modified": "13296694990670003",
+          "zoom_level": -1.2239010857415447
+        },
+        "www.raregames.store": {
+          "last_modified": "13341490809023567",
+          "zoom_level": -1.5778829311823859
+        },
+        "www.simply-hentai.com": {
+          "last_modified": "13335818306435967",
+          "zoom_level": -2.2239010857415455
+        },
+        "www.summercamp-rock-salsa.fr": {
+          "last_modified": "13304696551462788",
+          "zoom_level": 0.5227586988632231
+        },
+        "www.ville-courbevoie.fr": {
+          "last_modified": "13330874959313879",
+          "zoom_level": -2.2239010857415455
+        }
+      }
+    }
+  },
+  "partner_code": "",
+  "password_manager": {
+    "password_change_success_tracker": {
+      "version": 1
+    },
+    "profile_store_date_last_used_for_filling": "13348000163855018"
+  },
+  "persistent_notifications": {
+    "next_id": 11960
+  },
+  "personalization_data_consent": {
+    "personalization_in_context_consent_can_prompt": false,
+    "personalization_in_context_count": 0
+  },
+  "plugin": {
+    "should_reset_check_default_pdf_handler": false
+  },
+  "prefetch": {
+    "search_prefetch": {
+      "cache": {}
+    }
+  },
+  "printing": {
+    "print_preview_sticky_settings": {
+      "appState": "{\"version\":2,\"recentDestinations\":[{\"id\":\"Save as PDF\",\"origin\":\"local\",\"account\":\"\",\"capabilities\":{\"printer\":{\"color\":{\"option\":[{\"is_default\":true,\"type\":\"STANDARD_COLOR\",\"vendor_id\":\"2\"}]},\"dpi\":{\"option\":[{\"horizontal_dpi\":300,\"is_default\":true,\"vertical_dpi\":300}]},\"media_size\":{\"option\":[{\"height_microns\":1189000,\"name\":\"ISO_A0\",\"width_microns\":841000,\"custom_display_name\":\"A0\"},{\"height_microns\":841000,\"name\":\"ISO_A1\",\"width_microns\":594000,\"custom_display_name\":\"A1\"},{\"height_microns\":594000,\"name\":\"ISO_A2\",\"width_microns\":420000,\"custom_display_name\":\"A2\"},{\"height_microns\":420000,\"name\":\"ISO_A3\",\"width_microns\":297000,\"custom_display_name\":\"A3\"},{\"height_microns\":297000,\"is_default\":true,\"name\":\"ISO_A4\",\"width_microns\":210000,\"custom_display_name\":\"A4\"},{\"height_microns\":210000,\"name\":\"ISO_A5\",\"width_microns\":148000,\"custom_display_name\":\"A5\"},{\"height_microns\":355600,\"name\":\"NA_LEGAL\",\"width_microns\":215900,\"custom_display_name\":\"Legal\"},{\"height_microns\":279400,\"name\":\"NA_LETTER\",\"width_microns\":215900,\"custom_display_name\":\"Letter\"},{\"height_microns\":431800,\"name\":\"NA_LEDGER\",\"width_microns\":279400,\"custom_display_name\":\"Tabloid\"}]},\"page_orientation\":{\"option\":[{\"type\":\"PORTRAIT\"},{\"type\":\"LANDSCAPE\"},{\"is_default\":true,\"type\":\"AUTO\"}]}},\"version\":\"1.0\"},\"displayName\":\"Save as PDF\",\"printerStatus\":\"\",\"extensionId\":\"\",\"extensionName\":\"\"},{\"id\":\"Microsoft Print to PDF\",\"origin\":\"local\",\"account\":\"\",\"capabilities\":null,\"displayName\":\"Microsoft Print to PDF\",\"printerStatus\":\"\",\"extensionId\":\"\",\"extensionName\":\"\"}],\"dpi\":{},\"duplexType\":\"NO_DUPLEX\",\"mediaSize\":{},\"marginsType\":0,\"customMargins\":{\"marginTop\":72,\"marginRight\":72,\"marginBottom\":72,\"marginLeft\":72},\"isColorEnabled\":true,\"isHeaderFooterEnabled\":false,\"isLandscapeEnabled\":false,\"isCollateEnabled\":true,\"isCssBackgroundEnabled\":false,\"scaling\":\"100\",\"vendorOptions\":{}}"
+    }
+  },
+  "privacy_sandbox": {
+    "anti_abuse_initialized": true,
+    "first_party_sets_data_access_allowed_initialized": true,
+    "topics_data_accessible_since": "13332446127855936"
+  },
+  "profile": {
+    "avatar_bubble_tutorial_shown": 2,
+    "avatar_index": 20,
+    "content_settings": {
+      "enable_quiet_permission_ui_enabling_method": {
+        "notifications": 1
+      },
+      "permission_actions": {
+        "camera_stream": [],
+        "clipboard": [],
+        "geolocation": [
+          {
+            "action": 2,
+            "prompt_disposition": 1,
+            "time": "13346699278382975"
+          },
+          {
+            "action": 3,
+            "prompt_disposition": 1,
+            "time": "13347327469079325"
+          }
+        ],
+        "notifications": [
+          {
+            "action": 3,
+            "prompt_disposition": 2,
+            "time": "13347301262655186"
+          },
+          {
+            "action": 2,
+            "prompt_disposition": 1,
+            "time": "13347301268285697"
+          },
+          {
+            "action": 3,
+            "prompt_disposition": 2,
+            "time": "13347303730902122"
+          },
+          {
+            "action": 3,
+            "prompt_disposition": 2,
+            "time": "13347327508708228"
+          },
+          {
+            "action": 3,
+            "prompt_disposition": 2,
+            "time": "13347327509943382"
+          },
+          {
+            "action": 3,
+            "prompt_disposition": 2,
+            "time": "13348043279248568"
+          },
+          {
+            "action": 3,
+            "prompt_disposition": 2,
+            "time": "13348303271331679"
+          }
+        ]
+      },
+      "pref_version": 1
+    },
+    "created_by_version": "89.0.774.68",
+    "creation_time": "13271707741980710",
+    "edge_profile_id": "b48b810a-e550-45a8-becc-a9fbe117baeb",
+    "exit_type": "Crashed",
+    "has_seen_signin_fre": true,
+    "icon_version": 15,
+    "is_notice_bubble_shown": true,
+    "last_engagement_time": "13348351828827718",
+    "last_time_auto_save_consent_shown": "13311134542398966",
+    "last_time_obsolete_http_credentials_removed": 1698099362.3797,
+    "last_time_password_monitor_consent_shown": "13273846902942556",
+    "last_time_password_store_metrics_reported": 1703795242.576512,
+    "managed_user_id": "",
+    "name": "Profile 1",
+    "network_pbs": {
+      "613651f9": {
+        "last_updated": "13348302482537795",
+        "pb": 13
+      }
+    },
+    "number_auto_save_consent_shown": 4,
+    "number_password_monitor_consent_shown": 4,
+    "number_sync_2FA_upsell_shown": 3,
+    "observed_session_time": {
+      "feedback_rating_in_product_help_observed_session_time_key_100.0.1185.29": 8596.0,
+      "feedback_rating_in_product_help_observed_session_time_key_100.0.1185.36": 26335.0,
+      "feedback_rating_in_product_help_observed_session_time_key_100.0.1185.39": 33041.0,
+      "feedback_rating_in_product_help_observed_session_time_key_100.0.1185.44": 53973.0,
+      "feedback_rating_in_product_help_observed_session_time_key_100.0.1185.50": 19311.0,
+      "feedback_rating_in_product_help_observed_session_time_key_101.0.1210.32": 12960.0,
+      "feedback_rating_in_product_help_observed_session_time_key_101.0.1210.39": 27155.0,
+      "feedback_rating_in_product_help_observed_session_time_key_101.0.1210.47": 12783.0,
+      "feedback_rating_in_product_help_observed_session_time_key_101.0.1210.53": 100152.0,
+      "feedback_rating_in_product_help_observed_session_time_key_102.0.1245.30": 10457.0,
+      "feedback_rating_in_product_help_observed_session_time_key_102.0.1245.33": 49066.0,
+      "feedback_rating_in_product_help_observed_session_time_key_102.0.1245.39": 3672.0,
+      "feedback_rating_in_product_help_observed_session_time_key_102.0.1245.41": 22927.0,
+      "feedback_rating_in_product_help_observed_session_time_key_102.0.1245.44": 63463.0,
+      "feedback_rating_in_product_help_observed_session_time_key_103.0.1264.37": 624.0,
+      "feedback_rating_in_product_help_observed_session_time_key_103.0.1264.44": 10470.0,
+      "feedback_rating_in_product_help_observed_session_time_key_103.0.1264.49": 34389.0,
+      "feedback_rating_in_product_help_observed_session_time_key_103.0.1264.62": 137971.0,
+      "feedback_rating_in_product_help_observed_session_time_key_103.0.1264.71": 50562.0,
+      "feedback_rating_in_product_help_observed_session_time_key_103.0.1264.77": 740.0,
+      "feedback_rating_in_product_help_observed_session_time_key_104.0.1293.47": 23052.0,
+      "feedback_rating_in_product_help_observed_session_time_key_104.0.1293.63": 32594.0,
+      "feedback_rating_in_product_help_observed_session_time_key_104.0.1293.70": 39778.0,
+      "feedback_rating_in_product_help_observed_session_time_key_105.0.1343.25": 11841.0,
+      "feedback_rating_in_product_help_observed_session_time_key_105.0.1343.27": 57554.0,
+      "feedback_rating_in_product_help_observed_session_time_key_105.0.1343.33": 15997.0,
+      "feedback_rating_in_product_help_observed_session_time_key_105.0.1343.42": 55507.0,
+      "feedback_rating_in_product_help_observed_session_time_key_105.0.1343.50": 34936.0,
+      "feedback_rating_in_product_help_observed_session_time_key_105.0.1343.53": 31359.0,
+      "feedback_rating_in_product_help_observed_session_time_key_106.0.1370.34": 20299.0,
+      "feedback_rating_in_product_help_observed_session_time_key_106.0.1370.37": 33191.0,
+      "feedback_rating_in_product_help_observed_session_time_key_106.0.1370.42": 34981.0,
+      "feedback_rating_in_product_help_observed_session_time_key_106.0.1370.47": 36120.0,
+      "feedback_rating_in_product_help_observed_session_time_key_106.0.1370.52": 40303.0,
+      "feedback_rating_in_product_help_observed_session_time_key_107.0.1418.26": 18851.0,
+      "feedback_rating_in_product_help_observed_session_time_key_107.0.1418.35": 58023.0,
+      "feedback_rating_in_product_help_observed_session_time_key_107.0.1418.42": 61435.0,
+      "feedback_rating_in_product_help_observed_session_time_key_107.0.1418.52": 51865.0,
+      "feedback_rating_in_product_help_observed_session_time_key_107.0.1418.56": 90110.0,
+      "feedback_rating_in_product_help_observed_session_time_key_107.0.1418.62": 53038.0,
+      "feedback_rating_in_product_help_observed_session_time_key_108.0.1462.42": 33206.0,
+      "feedback_rating_in_product_help_observed_session_time_key_108.0.1462.46": 74773.0,
+      "feedback_rating_in_product_help_observed_session_time_key_108.0.1462.54": 122286.0,
+      "feedback_rating_in_product_help_observed_session_time_key_108.0.1462.76": 32611.0,
+      "feedback_rating_in_product_help_observed_session_time_key_109.0.1518.52": 605.0,
+      "feedback_rating_in_product_help_observed_session_time_key_109.0.1518.55": 21782.0,
+      "feedback_rating_in_product_help_observed_session_time_key_109.0.1518.61": 33900.0,
+      "feedback_rating_in_product_help_observed_session_time_key_109.0.1518.69": 616.0,
+      "feedback_rating_in_product_help_observed_session_time_key_109.0.1518.70": 32542.0,
+      "feedback_rating_in_product_help_observed_session_time_key_109.0.1518.78": 44368.0,
+      "feedback_rating_in_product_help_observed_session_time_key_110.0.1587.41": 24849.0,
+      "feedback_rating_in_product_help_observed_session_time_key_110.0.1587.46": 58740.0,
+      "feedback_rating_in_product_help_observed_session_time_key_110.0.1587.50": 63292.0,
+      "feedback_rating_in_product_help_observed_session_time_key_110.0.1587.57": 49030.0,
+      "feedback_rating_in_product_help_observed_session_time_key_110.0.1587.63": 62905.0,
+      "feedback_rating_in_product_help_observed_session_time_key_110.0.1587.69": 8643.0,
+      "feedback_rating_in_product_help_observed_session_time_key_111.0.1661.41": 968.0,
+      "feedback_rating_in_product_help_observed_session_time_key_111.0.1661.44": 605.0,
+      "feedback_rating_in_product_help_observed_session_time_key_111.0.1661.51": 14106.0,
+      "feedback_rating_in_product_help_observed_session_time_key_111.0.1661.54": 39889.0,
+      "feedback_rating_in_product_help_observed_session_time_key_111.0.1661.62": 87579.0,
+      "feedback_rating_in_product_help_observed_session_time_key_112.0.1722.34": 1651.0,
+      "feedback_rating_in_product_help_observed_session_time_key_112.0.1722.39": 1926.0,
+      "feedback_rating_in_product_help_observed_session_time_key_112.0.1722.48": 35661.0,
+      "feedback_rating_in_product_help_observed_session_time_key_112.0.1722.58": 35977.0,
+      "feedback_rating_in_product_help_observed_session_time_key_112.0.1722.64": 30440.0,
+      "feedback_rating_in_product_help_observed_session_time_key_112.0.1722.68": 84982.0,
+      "feedback_rating_in_product_help_observed_session_time_key_113.0.1774.35": 43227.0,
+      "feedback_rating_in_product_help_observed_session_time_key_113.0.1774.42": 105111.0,
+      "feedback_rating_in_product_help_observed_session_time_key_113.0.1774.50": 124468.0,
+      "feedback_rating_in_product_help_observed_session_time_key_113.0.1774.57": 88283.0,
+      "feedback_rating_in_product_help_observed_session_time_key_114.0.1823.37": 16681.0,
+      "feedback_rating_in_product_help_observed_session_time_key_114.0.1823.41": 13710.0,
+      "feedback_rating_in_product_help_observed_session_time_key_114.0.1823.43": 24584.0,
+      "feedback_rating_in_product_help_observed_session_time_key_114.0.1823.51": 69530.0,
+      "feedback_rating_in_product_help_observed_session_time_key_114.0.1823.58": 48618.0,
+      "feedback_rating_in_product_help_observed_session_time_key_114.0.1823.67": 94990.0,
+      "feedback_rating_in_product_help_observed_session_time_key_114.0.1823.79": 66568.0,
+      "feedback_rating_in_product_help_observed_session_time_key_114.0.1823.82": 63820.0,
+      "feedback_rating_in_product_help_observed_session_time_key_115.0.1901.183": 65353.0,
+      "feedback_rating_in_product_help_observed_session_time_key_115.0.1901.188": 110466.0,
+      "feedback_rating_in_product_help_observed_session_time_key_115.0.1901.200": 229.0,
+      "feedback_rating_in_product_help_observed_session_time_key_115.0.1901.203": 837.0,
+      "feedback_rating_in_product_help_observed_session_time_key_116.0.1938.54": 50127.0,
+      "feedback_rating_in_product_help_observed_session_time_key_116.0.1938.62": 26801.0,
+      "feedback_rating_in_product_help_observed_session_time_key_116.0.1938.69": 91844.0,
+      "feedback_rating_in_product_help_observed_session_time_key_116.0.1938.76": 31077.0,
+      "feedback_rating_in_product_help_observed_session_time_key_116.0.1938.81": 7547.0,
+      "feedback_rating_in_product_help_observed_session_time_key_117.0.2045.31": 72561.0,
+      "feedback_rating_in_product_help_observed_session_time_key_117.0.2045.36": 70398.0,
+      "feedback_rating_in_product_help_observed_session_time_key_117.0.2045.41": 14691.0,
+      "feedback_rating_in_product_help_observed_session_time_key_117.0.2045.43": 1381.0,
+      "feedback_rating_in_product_help_observed_session_time_key_117.0.2045.47": 46300.0,
+      "feedback_rating_in_product_help_observed_session_time_key_117.0.2045.60": 46786.0,
+      "feedback_rating_in_product_help_observed_session_time_key_118.0.2088.46": 43519.0,
+      "feedback_rating_in_product_help_observed_session_time_key_118.0.2088.57": 239.0,
+      "feedback_rating_in_product_help_observed_session_time_key_118.0.2088.61": 16676.0,
+      "feedback_rating_in_product_help_observed_session_time_key_118.0.2088.69": 63597.0,
+      "feedback_rating_in_product_help_observed_session_time_key_118.0.2088.76": 12057.0,
+      "feedback_rating_in_product_help_observed_session_time_key_119.0.2151.44": 88858.0,
+      "feedback_rating_in_product_help_observed_session_time_key_119.0.2151.58": 37883.0,
+      "feedback_rating_in_product_help_observed_session_time_key_119.0.2151.72": 49905.0,
+      "feedback_rating_in_product_help_observed_session_time_key_119.0.2151.93": 23862.0,
+      "feedback_rating_in_product_help_observed_session_time_key_119.0.2151.97": 3314.0,
+      "feedback_rating_in_product_help_observed_session_time_key_120.0.2210.61": 9242.0,
+      "feedback_rating_in_product_help_observed_session_time_key_120.0.2210.77": 46383.0,
+      "feedback_rating_in_product_help_observed_session_time_key_120.0.2210.91": 47850.0,
+      "feedback_rating_in_product_help_observed_session_time_key_89.0.774.68": 12303.0,
+      "feedback_rating_in_product_help_observed_session_time_key_92.0.902.55": 14924.0,
+      "feedback_rating_in_product_help_observed_session_time_key_92.0.902.62": 65102.0,
+      "feedback_rating_in_product_help_observed_session_time_key_92.0.902.67": 68658.0,
+      "feedback_rating_in_product_help_observed_session_time_key_92.0.902.73": 51553.0,
+      "feedback_rating_in_product_help_observed_session_time_key_92.0.902.78": 44675.0,
+      "feedback_rating_in_product_help_observed_session_time_key_92.0.902.84": 141508.0,
+      "feedback_rating_in_product_help_observed_session_time_key_93.0.961.38": 90507.0,
+      "feedback_rating_in_product_help_observed_session_time_key_93.0.961.44": 29730.0,
+      "feedback_rating_in_product_help_observed_session_time_key_93.0.961.47": 54013.0,
+      "feedback_rating_in_product_help_observed_session_time_key_93.0.961.52": 60613.0,
+      "feedback_rating_in_product_help_observed_session_time_key_94.0.992.31": 42125.0,
+      "feedback_rating_in_product_help_observed_session_time_key_94.0.992.38": 108945.0,
+      "feedback_rating_in_product_help_observed_session_time_key_94.0.992.47": 25387.0,
+      "feedback_rating_in_product_help_observed_session_time_key_94.0.992.50": 80716.0,
+      "feedback_rating_in_product_help_observed_session_time_key_95.0.1020.30": 47965.0,
+      "feedback_rating_in_product_help_observed_session_time_key_95.0.1020.40": 104825.0,
+      "feedback_rating_in_product_help_observed_session_time_key_95.0.1020.44": 40927.0,
+      "feedback_rating_in_product_help_observed_session_time_key_95.0.1020.53": 27440.0,
+      "feedback_rating_in_product_help_observed_session_time_key_96.0.1054.29": 13305.0,
+      "feedback_rating_in_product_help_observed_session_time_key_96.0.1054.34": 49549.0,
+      "feedback_rating_in_product_help_observed_session_time_key_96.0.1054.43": 68950.0,
+      "feedback_rating_in_product_help_observed_session_time_key_96.0.1054.53": 52090.0,
+      "feedback_rating_in_product_help_observed_session_time_key_96.0.1054.57": 1104.0,
+      "feedback_rating_in_product_help_observed_session_time_key_96.0.1054.62": 44067.0,
+      "feedback_rating_in_product_help_observed_session_time_key_97.0.1072.55": 82140.0,
+      "feedback_rating_in_product_help_observed_session_time_key_97.0.1072.62": 56145.0,
+      "feedback_rating_in_product_help_observed_session_time_key_97.0.1072.69": 63335.0,
+      "feedback_rating_in_product_help_observed_session_time_key_97.0.1072.76": 77738.0,
+      "feedback_rating_in_product_help_observed_session_time_key_98.0.1108.43": 170901.0,
+      "feedback_rating_in_product_help_observed_session_time_key_98.0.1108.50": 1256.0,
+      "feedback_rating_in_product_help_observed_session_time_key_98.0.1108.56": 40784.0,
+      "feedback_rating_in_product_help_observed_session_time_key_98.0.1108.62": 34556.0,
+      "feedback_rating_in_product_help_observed_session_time_key_99.0.1150.30": 60834.0,
+      "feedback_rating_in_product_help_observed_session_time_key_99.0.1150.36": 6670.0,
+      "feedback_rating_in_product_help_observed_session_time_key_99.0.1150.39": 67130.0,
+      "feedback_rating_in_product_help_observed_session_time_key_99.0.1150.46": 58846.0,
+      "feedback_rating_in_product_help_observed_session_time_key_99.0.1150.55": 7327.0
+    },
+    "password_breach_last_scanned_time": "13271709444002190",
+    "password_breach_scan_trigger_last_reset_time": "13271709721783736",
+    "password_breach_scan_triggered_count": 0,
+    "password_breach_scan_triggered_password_count": 0,
+    "password_breach_scanned": true,
+    "pdf_bar_last_pin_state": false,
+    "pdf_revamped_toolbar_file_count": "92",
+    "pdf_revamped_toolbar_first_used": "13321830901525734",
+    "pdf_show_view_recovery_coachmark": false,
+    "using_default_avatar": false,
+    "using_gaia_avatar": true,
+    "was_pdf_restore_data_cleared_once": true,
+    "were_old_google_logins_removed": true
+  },
+  "read_aloud": {
+    "last_used_time": "13333331196817749",
+    "toolbar_button_animation_last_shown_time": "13308829712484270",
+    "toolbar_button_animation_shown_count": 1
+  },
+  "reading_view": {
+    "column_type": 1,
+    "column_type_auto_selected": true,
+    "last_access_time": "13323717005642907"
+  },
+  "reset_prepopulated_engines": false,
+  "resolve_navigation_errors_use_web_service": {
+    "enabled": false
+  },
+  "retention_collections_bubble_show_timer": 1700001981.578726,
+  "safebrowsing": {
+    "advanced_protection_last_refresh": "13348276209019156",
+    "event_timestamps": {},
+    "metrics_last_log_time": "13348284965",
+    "saw_interstitial_sber2": true,
+    "unhandled_sync_password_reuses": {}
+  },
+  "savefile": {
+    "default_directory": "J:\\New folder",
+    "type": 1
+  },
+  "segmentation_platform": {
+    "last_db_compaction_time": "13343356799000000",
+    "segment_execution_result": {
+      "edge_most_valuable_user": {
+        "execution_time": "13348285041014077",
+        "is_ready": true,
+        "output": [
+          1.0
+        ],
+        "prediction_score": 1.0,
+        "segment_id": 504
+      },
+      "edge_toolbar_personalization": {
+        "execution_time": "13346028831354342",
+        "is_ready": true,
+        "output": [
+          -1.0,
+          -1.0
+        ],
+        "segment_id": 513
+      }
+    }
+  },
+  "selectfile": {
+    "last_directory": "D:\\OneDrive\\cabannes.francois@outlook.com\\OneDrive\\Images\\Avatars"
+  },
+  "send_tab_to_self": {
+    "initial_animation_shown": true
+  },
+  "sessions": {
+    "event_log": [
+      {
+        "crashed": false,
+        "time": "13347939400460336",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 2,
+        "time": "13347943386559987",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13347943387405705",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 3,
+        "time": "13347944120702576",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13347944121603893",
+        "type": 0
+      },
+      {
+        "did_schedule_command": false,
+        "first_session_service": true,
+        "tab_count": 0,
+        "time": "13347944128214849",
+        "type": 2,
+        "window_count": 0
+      },
+      {
+        "crashed": false,
+        "time": "13347977215584525",
+        "type": 0
+      },
+      {
+        "did_schedule_command": false,
+        "first_session_service": true,
+        "tab_count": 0,
+        "time": "13347977216623512",
+        "type": 2,
+        "window_count": 0
+      },
+      {
+        "crashed": false,
+        "time": "13347977219241518",
+        "type": 0
+      },
+      {
+        "crashed": true,
+        "time": "13348004660345164",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 1,
+        "time": "13348023382152042",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13348023383002800",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 14,
+        "time": "13348178807712735",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13348178814683280",
+        "type": 0
+      },
+      {
+        "crashed": false,
+        "time": "13348178927800341",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 9,
+        "time": "13348268809804175",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13348268812574846",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 9,
+        "time": "13348276124577503",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13348276208677801",
+        "type": 0
+      }
+    ],
+    "session_data_status": 1
+  },
+  "settings": {
+    "a11y": {
+      "apply_page_colors_only_on_increased_contrast": true,
+      "caretbrowsing": {
+        "enabled": true,
+        "show_dialog": false
+      }
+    }
+  },
+  "settings_all_features": {
+    "msedge_feedback_nps_surveys": {
+      "IPH_msFeedbackRating": "101.0.1210.47"
+    }
+  },
+  "shopping": {
+    "contextual_features_enabled": true,
+    "cookie_consent_last_show_time": "13339546966594300",
+    "cookie_consent_set": true,
+    "dma_telemetry_expiration_time": "13348388880876721",
+    "last_notification_time": "13313302231494423",
+    "last_pwilo_api_fetch_time": "13348265628004675",
+    "mute_auto_show": {},
+    "pcb_supported": true
+  },
+  "signin": {
+    "allowed": true
+  },
+  "smart_explore": {
+    "block_list": [
+      "allthingsworn.com"
+    ],
+    "on_image_hover": false
+  },
+  "spellcheck": {
+    "dictionaries": [
+      "en-GB"
+    ],
+    "dictionary": ""
+  },
+  "sync": {
+    "apps": true,
+    "autofill": true,
+    "bag_of_chips": "",
+    "birthday": "ProductionEnvironmentDefinition_1662247786227",
+    "bookmarks": true,
+    "cache_guid": "9azmy8JVE/WHEEO+xIlp9A==",
+    "collections": true,
+    "collections_edge_re_evaluated": true,
+    "collections_edge_supported": true,
+    "edge_account_type": 1,
+    "edge_promoted_types": [
+      "sync.extensions",
+      "sync.typed_urls",
+      "sync.tabs"
+    ],
+    "edge_wallet": true,
+    "edge_wallet_edge_supported": true,
+    "extensions": true,
+    "extensions_edge_supported": true,
+    "gaia_id": "00034001AC452EC4",
+    "has_been_enabled": true,
+    "has_setup_completed": true,
+    "history_edge_supported": true,
+    "keep_everything_synced": false,
+    "keystore_encryption_key_state": "eyJleHBpcmF0aW9uX3RpbWUiOjE3MDM4ODI1MjcuNTQ2NDA1fQ==",
+    "last_poll_time": "13348329363756777",
+    "last_sync_url": "https://edge.microsoft.com/sync/v1/feeds/me/syncEntities/",
+    "last_sync_url_modify_time": "13348276209341336",
+    "last_synced_time": "13348351832690153",
+    "local_device_guids_with_timestamp": [
+      {
+        "cache_guid": "9azmy8JVE/WHEEO+xIlp9A==",
+        "timestamp": 154493
+      }
+    ],
+    "passwords": true,
+    "preferences": true,
+    "requested": true,
+    "short_poll_interval": "28800000000",
+    "tabs": true,
+    "tabs_edge_supported": true,
+    "typed_urls": true
+  },
+  "sync_consent_recorded": true,
+  "sync_health_auditor": {
+    "last_audit_state": 2,
+    "last_audit_timestamp": "13272160813388903",
+    "last_sync_result": 4,
+    "last_sync_success_timestamp": "13272160761795576",
+    "last_sync_timestamp": "13272160761795576"
+  },
+  "sync_settings_iris_load_timestamp": "13348129050557868",
+  "tab_groups": [],
+  "third_party_search": {
+    "consented": true
+  },
+  "tracking_prevention": {
+    "strict_inprivate": false
+  },
+  "tracking_protection": {
+    "tracking_protection_3pcd_enabled": false
+  },
+  "translate": {
+    "enabled": true
+  },
+  "translate_accepted_count": {
+    "de": 0,
+    "es": 0,
+    "fi": 0,
+    "fr": 0,
+    "hu": 1,
+    "it": 1,
+    "ko": 0,
+    "nl": 0,
+    "pl": 0,
+    "pt": 0,
+    "ru": 3
+  },
+  "translate_allowlists": {
+    "it": "en",
+    "ru": "en"
+  },
+  "translate_denied_count_for_language": {
+    "de": 10,
+    "es": 5,
+    "fi": 1,
+    "fr": 778,
+    "hu": 0,
+    "it": 0,
+    "ko": 1,
+    "nl": 4,
+    "pl": 1,
+    "pt": 8,
+    "ru": 0
+  },
+  "translate_force_trigger_on_english_count_for_backoff_1": -1,
+  "translate_ignored_count_for_language": {
+    "ar": 3,
+    "bg": 1,
+    "bn": 1,
+    "de": 106,
+    "el": 2,
+    "es": 41,
+    "fi": 2,
+    "fr": 7135,
+    "hi": 1,
+    "hu": 0,
+    "id": 1,
+    "it": 0,
+    "ja": 5,
+    "ko": 3,
+    "nl": 10,
+    "pl": 13,
+    "pt": 64,
+    "ru": 0,
+    "sk": 1,
+    "sq": 1,
+    "sv": 1,
+    "uk": 1,
+    "vi": 1,
+    "zh-CN": 3
+  },
+  "translate_recent_target": "en",
+  "translate_site_blacklist": [],
+  "translate_site_blacklist_with_time": {
+    "billetterie.laseinemusicale.com": "13307241013834617"
+  },
+  "translate_site_blocklist_with_time": {
+    "www.sncf-connect.com": "13338229221775505"
+  },
+  "try_collections_first_time": true,
+  "updateclientdata": {
+    "apps": {
+      "ahokoikenoafgppiblgpenaaaolecifn": {
+        "cohort": "rrf@0.46",
+        "dlrc": 6081,
+        "installdate": 5853,
+        "pf": "2da6f754-d8f7-45b1-bd4e-55312c8f8641"
+      },
+      "bhmhibnbialendcafinliemndanacfaj": {
+        "cohort": "rrf@0.91",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "9a1cb403-7ff3-49b0-9b10-c35a5be3087b"
+      },
+      "bobbggphonhgdonfdibkfipfepfcildj": {
+        "cohort": "rrf@0.33",
+        "dlrc": 6081,
+        "installdate": 5918,
+        "pf": "07b712a8-9d81-4941-a815-0429af6b2830"
+      },
+      "ceaifoolopnigfpidlheoagpheiplgii": {
+        "cohort": "rrf@0.51",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "a529d351-bd7f-4f12-9238-a10882c48f49"
+      },
+      "cgjnhhjpfcdhbhlcmmjppicjmgfkppok": {
+        "cohort": "rrf@0.61",
+        "cohortname": "",
+        "dlrc": 5744,
+        "pf": "059d3ea7-1d03-4c3f-9169-873b7e23a2ae"
+      },
+      "cjneempfhkonkkbcmnfdibgobmhbagaj": {
+        "cohort": "rrf@0.06",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "6a1f0153-0688-4e5c-b517-66dad0d1dacb"
+      },
+      "dabfebgaghanlbehmkmaflipiohdimmc": {
+        "cohort": "rrf@0.33",
+        "dlrc": 6081,
+        "installdate": 5918,
+        "pf": "6e46bba8-1f0d-4aa2-af85-2277df4bd07c"
+      },
+      "dcaajljecejllikfgbhjdgeognacjkkp": {
+        "cohort": "rrf@0.47",
+        "dlrc": 6081,
+        "installdate": 5946,
+        "pf": "0d455929-7906-4a6f-b625-c65a40fd0b46"
+      },
+      "dejobinhdiimklegodgbmbifijpppopn": {
+        "cohort": "rrf@0.31",
+        "cohortname": "",
+        "dlrc": 6117,
+        "installdate": 6109,
+        "pf": "75b953f3-3e09-4dfb-a54e-12453ed41263"
+      },
+      "dmbljphlfghcnbohaoffiedmodfmkmol": {
+        "cohort": "rrf@0.26",
+        "dlrc": 6081,
+        "installdate": 5918,
+        "pf": "264d6619-b50d-42c2-993d-c9ffef9f5ee7"
+      },
+      "ehlmnljdoejdahfjdfobmpfancoibmig": {
+        "cohort": "rrf@0.14",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "374a038b-8450-4598-8f92-04ea1018da5e"
+      },
+      "eijpepilkjkofamihbmjcnihgpbebafj": {
+        "cohort": "rrf@0.17",
+        "dlrc": 6081,
+        "installdate": 5823,
+        "pf": "0540f473-8cda-454b-82c7-befcfa38cd4e"
+      },
+      "enkoeamdnimieoooocohgbdajhhkajko": {
+        "cohort": "rrf@0.25",
+        "dlrc": 6081,
+        "installdate": 5918,
+        "pf": "85d7d0e4-e0a4-4eef-9102-31bb2f990609"
+      },
+      "fbcohnmimjicjdomonkcbcpbpnhggkip": {
+        "cohort": "rrf@0.96",
+        "cohortname": "",
+        "dlrc": 6124,
+        "installdate": 5918,
+        "pf": "45c40289-79a7-4a4a-bcb0-fe40e422d81a"
+      },
+      "fjngpfnaikknjdhkckmncgicobbkcnle": {
+        "cohort": "rrf@0.23",
+        "dlrc": 6081,
+        "installdate": 5899,
+        "pf": "6135a119-3642-4a58-bfb2-6027688826b8"
+      },
+      "fngmhnnpilhplaeedifhccceomclgfbg": {
+        "cohort": "rrf@0.12",
+        "cohortname": "",
+        "dlrc": 6206,
+        "installdate": 5909,
+        "pf": "c5d069e9-6d4b-4f8f-a0a8-0ba4fc9f7e3b"
+      },
+      "gbihlnbpmfkodghomcinpblknjhneknc": {
+        "cohort": "rrf@0.75",
+        "dlrc": 6081,
+        "installdate": 5948,
+        "pf": "ba346d28-b020-4138-ad19-af1721a42e62"
+      },
+      "gbmoeijgfngecijpcnbooedokgafmmji": {
+        "cohort": "rrf@0.41",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "4f789bbb-f614-41b4-adfd-0ecf290f0abd"
+      },
+      "gcinnojdebelpnodghnoicmcdmamjoch": {
+        "cohort": "rrf@0.06",
+        "dlrc": 6081,
+        "installdate": 5943,
+        "pf": "77804e1b-6331-4543-bb29-426417441dd5"
+      },
+      "gecfnmoodchdkebjjffmdcmeghkflpib": {
+        "cohort": "rrf@0.35",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "d3def101-33e0-4b94-9991-2e8990aacc7a"
+      },
+      "gekagaaiohabmaknhkbaofhhedhelemf": {
+        "cohort": "rrf@0.57",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "7901f533-14f5-4e38-942c-73ff163f1425"
+      },
+      "ghbmnnjooekpmoecnnnilnnbdlolhkhi": {
+        "cohort": "rrf@0.30",
+        "cohortname": "",
+        "dlrc": 6196,
+        "installdate": 6098,
+        "pf": "6372a9a6-1c74-4bac-b116-ce37a0e80980"
+      },
+      "ghglcnachgghkhbafjogogiggghcpjig": {
+        "cohort": "rrf@0.35",
+        "dlrc": 6081,
+        "installdate": 5918,
+        "pf": "14fc1ab5-c873-49a0-b409-652550b379b6"
+      },
+      "gibfelmjecbkbdkkgbgnknnfplmhdcmn": {
+        "cohort": "rrf@0.38",
+        "cohortname": "",
+        "dlrc": 6206,
+        "installdate": 6090,
+        "pf": "6930685a-acc1-45e2-8b34-eb732016ddc7"
+      },
+      "hciemgmhplhpinoohcjpafmncmjapioh": {
+        "cohort": "rrf@0.69",
+        "dlrc": 6081,
+        "installdate": 5918,
+        "pf": "0a2b49f9-d2e7-4072-ba41-c7d4489cbdf6"
+      },
+      "hloomjjkinpbjldhobfkfdamkmikjmdo": {
+        "cohort": "rrf@0.42",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "75039ca8-dfea-47d2-8b32-c06f0be65170"
+      },
+      "hmlhageoffiiefnmojcgoagebofoifpl": {
+        "cohort": "rrf@0.55",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "98df3e7d-bac4-4f01-9ec6-f04369077132"
+      },
+      "jbleckejnaboogigodiafflhkajdmpcl": {
+        "cohort": "rrf@0.36",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "46690c6e-845e-4e4f-8448-5367b93a0b1b"
+      },
+      "jgcbloklkllbkmkbfckchanipicejgah": {
+        "cohort": "rrf@0.02",
+        "dlrc": 6081,
+        "installdate": 5918,
+        "pf": "ce036e78-9a90-428d-a37b-6fdeb51ac00b"
+      },
+      "jlipacegilfgfpgkefbjcncbfcoeecgj": {
+        "cohort": "rrf@0.61",
+        "dlrc": 6081,
+        "installdate": 5875,
+        "pf": "1dedf834-7dfe-403d-895d-f7fb2d443390"
+      },
+      "jpfjdekhebcolnfkpicpciaknbgcdcbm": {
+        "cohort": "rrf@0.57",
+        "dlrc": 6081,
+        "installdate": 5918,
+        "pf": "4f600589-7075-4838-a186-6bd50c12ce96"
+      },
+      "kfhgpagdjjoieckminnmigmpeclkdmjm": {
+        "cohort": "rrf@0.55",
+        "cohortname": "",
+        "dlrc": 6206,
+        "fp": "1.954a46c661e3c7af5f281e616b78e837cbc5918853e325822a2db49f3bcb3741",
+        "pf": "2a0791be-640d-417a-bbd8-33c7439023e6",
+        "pv": "1.6.2"
+      },
+      "kfihiegbjaloebkmglnjnljoljgkkchm": {
+        "cohort": "rrf@0.24",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "d5bd6d3d-5110-4fbc-9d3d-4963a24ab6db"
+      },
+      "khffkadolmfbdgahbabbhipadklfmhgf": {
+        "cohort": "rrf@0.42",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "a9d116de-4d0c-4582-8e12-cba28cc08d2a"
+      },
+      "kjncpkplfnolibapodobnnjfgmjmiaba": {
+        "cohort": "rrf@0.01",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "0c5eadc8-35d9-4515-9689-9ba6e5b1c5b7"
+      },
+      "kkobcodijbdelbnhbfkkfncbeildnpie": {
+        "cohort": "rrf@0.92",
+        "dlrc": 6081,
+        "installdate": 5918,
+        "pf": "4ffb3b86-27a1-404c-ba1c-b663d2ae1d75"
+      },
+      "kmojgmpmopiiagdfbilgognmlegkonbk": {
+        "cohort": "rrf@0.92",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "c5504213-7839-4099-8bbc-84382adb7527"
+      },
+      "lbnnfjfjdijcnaakaebgcoemmlicjbnl": {
+        "cohort": "rrf@0.01",
+        "cohortname": "",
+        "dlrc": 6124,
+        "installdate": 6109,
+        "pf": "a6a5f8cc-c967-4eb4-a9f3-3f218109faea"
+      },
+      "nkbndigcebkoaejohleckhekfmcecfja": {
+        "cohort": "rrf@0.06",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "324e4c59-d391-48b9-940d-45147de75378"
+      },
+      "nnffbdeachhbpfapjklmpnmjcgamcdmm": {
+        "cohort": "rrf@0.00",
+        "cohortname": "",
+        "dlrc": 5744,
+        "pf": "59579137-6523-45b0-a080-bd3d46e19e35"
+      },
+      "nnpnekncnhiglbokoiffmejlimgmgoam": {
+        "cohort": "rrf@0.46",
+        "dlrc": 6081,
+        "installdate": 5918,
+        "pf": "1d1f2484-ddb8-4555-bf3a-ab688f090bfe"
+      },
+      "oallcdoceahndjmaalbicbcgpfnajgae": {
+        "cohort": "rrf@0.25",
+        "cohortname": "",
+        "dlrc": 5744,
+        "pf": "55fcab84-901a-4f77-a2e5-2c56a1dbbd41"
+      },
+      "ofefcgjbeghpigppfmkologfjadafddi": {
+        "cohort": "rrf@0.34",
+        "dlrc": 6081,
+        "installdate": 5902,
+        "pf": "8837ed4a-8486-4ac0-bada-3c67f5086380"
+      },
+      "olkdlefmaniacnmgofabnpmomgcpdaip": {
+        "cohort": "rrf@0.12",
+        "dlrc": 6081,
+        "installdate": 5918,
+        "pf": "08bd2263-7eaa-4593-b435-a60fa9e61591"
+      },
+      "olmhchkiafniffcaiciiomfdplnmklak": {
+        "cohort": "rrf@0.18",
+        "dlrc": 6081,
+        "installdate": 5793,
+        "pf": "6ae7be01-7858-4e4b-bb27-b43e2fa2735a"
+      },
+      "pencekojiebcjhifbkfdncgmmooepclc": {
+        "cohort": "rrf@0.83",
+        "dlrc": 6081,
+        "installdate": 5918,
+        "pf": "b8addd0e-3e08-46c9-9338-8eba54b73093"
+      },
+      "phcaemipbgodliopfijmcmlbdhpkbndb": {
+        "cohort": "rrf@0.11",
+        "cohortname": "",
+        "dlrc": 6124,
+        "fp": "1.53528d4eee3c5ca2fa6b9b8f55635f81c9d73a88cb474ca1706f1dd3e9624762",
+        "installdate": 5909,
+        "pf": "f7a7902a-c7eb-4d0a-aca2-18077aae6a77",
+        "pv": "3.1.14"
+      },
+      "pjhpojmiobchgmchbkekckbgeigbbaje": {
+        "cohort": "rrf@0.86",
+        "dlrc": 6022,
+        "installdate": 5918,
+        "pf": "af8525aa-09b9-4ce3-bcef-66c9b16adc83"
+      },
+      "ppnnjfpaneghjbcepgedmlcgmfgkjhah": {
+        "cohort": "rrf@0.86",
+        "dlrc": 6081,
+        "installdate": 5918,
+        "pf": "e0563b07-31f1-449f-925d-23f64edbba0e"
+      }
+    }
+  },
+  "user_experience_metrics": {
+    "personalization_data_consent_enabled_last_known_value": false
+  },
+  "visual_search": {
+    "dma_state": 1,
+    "in_context_menu": false
+  },
+  "was_auto_translate_user_before_reset_experiment": true,
+  "web_app": {
+    "system_installed_label_updated": true
+  },
+  "web_app_install_metrics": {
+    "hnpfjngllnobngcgfapefoaidbinmjnm": {
+      "install_source": 15,
+      "install_timestamp": "13333146909466994"
+    }
+  },
+  "web_apps": {
+    "daily_metrics": {
+      "https://fr.yahoo.com/?start_url=homescreenicon&requesttype=appshell&apptype=pwa": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 3,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://twitter.com/?utm_source=homescreen&utm_medium=shortcut": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 3,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.allthingsworn.com/login": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 3,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.coindesk.com/": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 3,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.facebook.com/?ref=homescreenpwa": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 2,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.francetvinfo.fr/#xtor=CS3-788": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 3,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.google.com/maps?force=tt&source=ttpwa": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 3,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.komoot.com/": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 3,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.lemonde.fr/": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 3,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.lequipe.fr/?standalone=true": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 3,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.lesnumeriques.com/?source=a2HS": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 3,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.reddit.com/": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 2,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.rome2rio.com/?utm_source=a2hs": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 3,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.tiktok.com/foryou": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 2,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.visorando.com/?utm_source=web_app_manifest": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 3,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      },
+      "https://www.youtube.com/?feature=ytca": {
+        "background_duration_sec": 0,
+        "browser_app_background_duration_sec": 0,
+        "browser_app_foreground_duration_sec": 0,
+        "captures_links": false,
+        "effective_display_mode": 2,
+        "foreground_duration_sec": 0,
+        "installed": false,
+        "num_sessions": 0,
+        "promotable": true,
+        "store_app_background_duration_sec": 0,
+        "store_app_foreground_duration_sec": 0
+      }
+    },
+    "daily_metrics_date": "13348278000000000",
+    "did_migrate_default_chrome_apps": [
+      "MigrateDefaultChromeAppToWebAppsGSuite",
+      "MigrateDefaultChromeAppToWebAppsNonGSuite"
+    ],
+    "error_loaded_policy_apps_migrated": true,
+    "last_preinstall_synchronize_version": "120",
+    "link_handling_info": {
+      "enabled_for_installed_apps": true
+    },
+    "system_web_app_failure_count": 0,
+    "system_web_app_last_attempted_language": "en-GB",
+    "system_web_app_last_attempted_update": "104.0.1293.70",
+    "system_web_app_last_installed_language": "en-GB",
+    "system_web_app_last_update": "104.0.1293.70"
+  },
+  "zerosuggest": {
+    "cachedresults": "",
+    "cachedresults_with_url": {}
+  }
+}
